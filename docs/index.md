@@ -1,5 +1,3 @@
-# Henning Schwentner, Coder, Coach, Consultant
-
 ![Henning Schwentner giving a presentation](images/henning-presenting.jpg)
 
 Hi, my name's Henning and I help to solve your software development problems.
