@@ -10,7 +10,7 @@ You want to understand Domain-Driven Design?
 Or you have a monolith/big ball of mud/legacy software you want to split?
 Or you're building software from scratch and don't know how?
 
-Give me a call!
+Give me a call or write an [e-mail](hs@wps.de)!
 
 ## Training/Speaking
 
