@@ -8,7 +8,7 @@ You want to understand Domain-Driven Design?
 Or you have a monolith/big ball of mud/legacy software you want to split?
 Or you're building software from scratch and don't know how?
 
-Give me a call or write an [e-mail](hs@wps.de)!
+Give me a call or write an [e-mail](mailto:hs@wps.de)!
 
 ## Training/Speaking
 
@@ -21,11 +21,12 @@ Topics include Domain-Driven Design, microservices, monolith splitting, Collabor
 ## Writing
 
 ### Text
-&type=f
 
-![Cover of book *Domain Storytelling*](https://www.informit.com/ShowCover.aspx?isbn=9780137458912) Stefan Hofer and I have written a book. It's called *Domain Storytelling* and shows how to understand your users by drawing pictures.
+![Cover of book *Domain Storytelling*](https://www.informit.com/ShowCover.aspx?isbn=9780137458912&type=f) [Stefan Hofer](https://www.wps.de/sh) and I have written a book. It's called *Domain Storytelling* and shows how to understand your users by drawing pictures. If you buy it at [InformIT]() or [Amazon.com](https://amzn.to/3nF34nI) or [Amazon.de](https://amzn.to/2ZrcpWc) using these links, I'll get a small cut.
 
-Also, I sometimes write magazine or blog  articles.
+![Cover of book *Domain-Driven Design kompakt*](https://dpunkt.de/wp-content/uploads/2020/07/12841-scaled-200x291.jpg) Together with [Carola Lilienthal](https://www.wps.de/cl) I've translated [Vaughn Vernon](https://vaughnvernon.com)'s *Domain-Driven Design Distilled* into German.
+
+Also, I occasionally write magazine or blog articles.
 Some of them are: XXX
 
 ### Code
@@ -44,13 +45,12 @@ I'm lucky to work at one of the best companies in the world, [WPS – Workplace 
 It's a team of people that love programming, care about their co-workers and high quality, and are fun to work with.
 I'm still amazed they let me play along.
 Please see [my page at WPS](https://www.wps.de/hs).
-(By the way: we're always looking for great new colleagues.)
 
-## Social Media
+We're always [looking for great new colleagues](https://www.wps.de/jobs).
 
-Twitter
-Github
-Linked.in
-Xing ?
-Insta?
-Mail
+## Contact and Social Media
+
+[Mail](mailto:hs@wps.de)
+[Twitter](https://twitter.com/hschwentner)
+[Github](https://github.com/hschwentner)
+[Linked.in](https://www.linkedin.com/in/henningschwentner)
