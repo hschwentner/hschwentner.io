@@ -14,15 +14,16 @@ Give me a call or write an [e-mail](hs@wps.de)!
 
 I regularly give talks and workshops on international conferences.
 You can also hire me for in-house trainings at your company.
-This ranges from a one hour inspirational talk to a [three day training course]() including many practical exercises.
+This ranges from a one hour inspirational talk to a [three day training course](https://www.wps.de/ddd) including many practical exercises.
 
 Topics include Domain-Driven Design, microservices, monolith splitting, Collaborative Modeling, and software architecture and development in general.
 
 ## Writing
 
 ### Text
+&type=f
 
-Stefan Hofer and I have written a book. It's called *Domain Storytelling* and shows how to understand your users by drawing pictures.
+![Cover of book *Domain Storytelling*](https://www.informit.com/ShowCover.aspx?isbn=9780137458912) Stefan Hofer and I have written a book. It's called *Domain Storytelling* and shows how to understand your users by drawing pictures.
 
 Also, I sometimes write magazine or blog  articles.
 Some of them are: XXX
