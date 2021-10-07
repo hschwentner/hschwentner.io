@@ -33,7 +33,7 @@ To showcase what I think is beautiful software architecture (and when to use a n
 
 ## Community
 
-I'm one of the co-organizers of the [CoMoCamp](https://www.comocamp.org).
+I'm one of the co-organizers of the [CoMoCamp](https://comocamp.org).
 
 ## Bio
 
