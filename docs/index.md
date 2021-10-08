@@ -31,6 +31,8 @@ Some of them are: XXX
 
 To showcase what I think is beautiful software architecture (and when to use a not-so-beautiful style), whenever I find the time I hack on the [LeasingNinja](https://leasingninja.io).
 
+With a couple of devs from the community, I'm working on [xMolecules](https://xmolecules.org), a library to express architectural concepts and patterns as living documentation in code.
+
 ## Community
 
 I'm one of the co-organizers of the [CoMoCamp](https://comocamp.org).
