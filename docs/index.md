@@ -17,6 +17,7 @@ You can also hire me for in-house trainings at your company.
 This ranges from a one hour inspirational talk to a [three day training course](https://www.wps.de/ddd) including many practical exercises.
 
 Topics include Domain-Driven Design, microservices, monolith splitting, Collaborative Modeling, and software architecture and development in general.
+Please see my [list of talks](https://sessionize.com/hschwentner/).
 
 ## Writing
 
@@ -24,16 +25,13 @@ Topics include Domain-Driven Design, microservices, monolith splitting, Collabor
 
 ![Cover of book *Domain-Driven Design kompakt*](https://dpunkt.de/wp-content/uploads/2020/07/12841-scaled-200x291.jpg) Together with [Carola Lilienthal](https://www.wps.de/cl) I've translated [Vaughn Vernon](https://vaughnvernon.com)'s *Domain-Driven Design Distilled* into German.
 
-%% Also, I occasionally write magazine or blog articles.
-Some of them are: XXX
+Also, I occasionally write magazine or blog [articles](/articles).
 
-## Coding
+## Coding and Community
 
 To showcase what I think is beautiful software architecture (and when to use a not-so-beautiful style), whenever I find the time I hack on the [LeasingNinja](https://leasingninja.io).
 
 With a couple of devs from the community, I'm working on [xMolecules](https://xmolecules.org), a library to express architectural concepts and patterns as living documentation in code.
-
-## Community
 
 I'm one of the co-organizers of the [CoMoCamp](https://comocamp.org).
 
