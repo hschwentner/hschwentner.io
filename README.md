@@ -1,2 +1,3 @@
-# hschwentner.github.io
+# hschwentner.io
+
 Henning Schwentner's personal website
