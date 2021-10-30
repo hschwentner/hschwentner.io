@@ -27,12 +27,17 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
 
 ### Tactical Refactorings
 
-- Enforce Ubiquitous Language
-- Replace Primitive with Value Object (=> bei Fowler Replace Primitive with Object)
+- [Enforce Ubiquitous Language](enforce-ubiquitous-language)
+- Replace Primitive with Value Object (=> bei Fowler *Replace Primitive with Object*)
 - Split Active Record into Aggregate and Repository
 - Combine Value Objects
-- Replace Collection of Entities with Entity in Its Own Right (=> there is a relationship to Encapsulate Collection)
+- Replace Collection of Entities with Entity in Its Own Right (=> there is a relationship to *Encapsulate Collection*)
 - Replace Collection of Entities with Repository
+- Heal Entity Anemia
+    - Remove Setter
+    - Replace Setter with Domain-Named Method
+    - Move Domain Logic from Service Down to Entity (=> *Move Statements into Function*, *Move Statements to Caller*)
+- Introduce Contract (=> relationship to *Introduce Assertion*)
 
 ## Acknowledgement
 
