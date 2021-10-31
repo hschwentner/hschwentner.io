@@ -21,7 +21,7 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
 
 ### Socio-technical Refactorings
 
-- [Form Cross-Functional Team out of Layer-Team Members](form-cross-functional-team-out.of-layer-team-members)
+- [Form Cross-Functional Team out of Layer-Team Members](form-cross-functional-team-out-of-layer-team-members)
 - Form Second Team out of Partly Layer-Team and First-Team Members
 - Form Second Team out of Only Layer-Team Members
 - Assign Bounded Context to Existing (Cross-Functional) Team
