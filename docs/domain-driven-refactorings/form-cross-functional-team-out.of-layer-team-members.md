@@ -18,6 +18,7 @@ This is a typical step when the monolith splitting is accompanied or caused by w
 - You’ll want the [early adopters]() here, not the *sceptics*. [@MannsRising201?]
 - Form a new team of less than ca. nine people.
 - Let the new team take responsibility for the new bounded context.
-- Encourage *t-shaping* and other agile techniques to break knowledge silos.
+- In the new team: Encourage *t-shaping* and other agile techniques to break knowledge silos.
+- For the time being let the rest of the teams organized as they are. The monolith is still there and has to be maintained.
 
 ## Example(s)
