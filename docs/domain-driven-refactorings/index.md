@@ -45,6 +45,6 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
 
 ## Acknowledgement
 
-![Flip chart of refactorings gathered at KanDDDinsky 2021](../images/domain-driven-refactorings-kandddinsky.jpeg)
+![Flip chart of refactorings gathered at KanDDDinsky 2021](../images/domain-driven-refactorings/domain-driven-refactorings-kandddinsky.jpeg)
 
 I thank the participants of the open space “Domain-Driven Refactorings” at [KanDDDinsky](https://kandddinsky.de/) 2021 conference.
