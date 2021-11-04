@@ -19,12 +19,15 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
 - Carve Out Data Model First
 - Carve Out Domain Model First
 
-### Socio-technical Refactorings
+### Socio-technical Refactorings (and Patterns)
 
 - [Form Cross-Functional Team out of Layer-Team Members](form-cross-functional-team-out-of-layer-team-members)
-- Form Second Team out of Partly Layer-Team and First-Team Members
+- [Form Second Team out of Partly Layer-Team and First-Team Members](form-second-team-out-of-partly-layer-team-and-first-team-members)
 - Form Second Team out of Only Layer-Team Members
 - Assign Bounded Context to Existing (Cross-Functional) Team
+
+- Give Core Domains to Best Team
+- Give Every Team one Core Domain (and additional supporting)
 
 ### Tactical Refactorings
 
@@ -35,9 +38,9 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
 - Replace Collection of Entities with Entity in Its Own Right (=> there is a relationship to *Encapsulate Collection*)
 - Replace Collection of Entities with Repository
 - Heal Entity Anemia
-    - Remove Setter
-    - Replace Setter with Domain-Named Method
-    - Move Domain Logic from Service Down to Entity (=> *Move Statements into Function*, *Move Statements to Caller*)
+  - Remove Setter
+  - Replace Setter with Domain-Named Method
+  - Move Domain Logic from Service Down to Entity (=> *Move Statements into Function*, *Move Statements to Caller*)
 - Introduce Contract (=> relationship to *Introduce Assertion*)
 
 ## Acknowledgement
