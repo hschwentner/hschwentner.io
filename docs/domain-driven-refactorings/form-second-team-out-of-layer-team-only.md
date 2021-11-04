@@ -2,7 +2,7 @@
 
 *Alternative to [Form Second Team out of Partly Layer-Team and First-Team Members](form-second-team-out-of-partly-layer-team-and-first-team-members)*
 
-![](../images/second-team-from-layer-teams-only.drawio.svg)
+![](../images/domain-driven-refactorings/second-team-from-layer-teams-only.drawio.svg)
 
 ## Motivation
 

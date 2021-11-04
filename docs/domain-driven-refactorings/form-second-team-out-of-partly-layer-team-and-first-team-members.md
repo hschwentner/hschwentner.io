@@ -4,7 +4,7 @@
 
 *Alternative to [Form Second Team out of Only Layer-Team Members](form-second-team-out-of-layer-team-only)*
 
-![](../images/second-team-from-first.drawio.svg)
+![](../images/domain-driven-refactorings/second-team-from-first.drawio.svg)
 
 ## Motivation
 
