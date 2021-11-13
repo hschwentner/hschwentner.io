@@ -24,6 +24,7 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
 - [Form Cross-Functional Team out of Layer-Team Members](form-cross-functional-team-out-of-layer-team-members)
 - [Form Second Team out of Partly Layer-Team and First-Team Members](form-second-team-out-of-partly-layer-team-and-first-team-members)
 - [Form Second Team out of Only Layer-Team Members](form-second-team-out-of-partly-layer-team-and-first-team-members)
+- [Move Operations Team Member to DevOps Team](move-operations-team-member-to-devops-team)
 - Assign Bounded Context to Existing (Cross-Functional) Team
 
 - Give Core Domains to Best Team
