@@ -1,6 +1,12 @@
 # $name$
 
+*Alternative to [XXXXX](XXXXXX)*
+
+![](../images/domain-driven-refactorings/XXXX.drawio.svg)
+
 ## Motivation
+
+%% TODO: or:  "When to Apply"
 
 ## Mechanics
 
