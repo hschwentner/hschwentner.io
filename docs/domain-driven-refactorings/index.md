@@ -1,7 +1,7 @@
 # Domain-Driven Refactorings
 
 In [@Fowler2019] many standard refactorings are described; [@Kerievsky20XX] shows how to refactor the patterns from [@Gamma1995].
-On this page, I'm collecting refactorings that help to introduce patterns originally described in [@Evans2004].
+On this page, I'm collecting refactorings that help to introduce patterns originally described in [@Evans2004], [@Fowler2004], and others.
 The catalog is split into three categories:
 
 - **Tactical Refactorings:** Change the inner implementation of a bounded context
@@ -14,8 +14,8 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
 
 ### Strategic Refactorings
 
-- [Carve Bounded Context out of Monolith](strategic/carve-bounded-context-out-of-monolith)
-- Implement Bounded Context from Scratch (and Replace it in the Monolith)
+- [Carve Out Bounded Context (out of Monolith)](strategic/carve-bounded-context-out-of-monolith)
+- [Implement Bounded Context from Scratch (and Replace it in the Monolith)](implement-bounded-context-from-scratch)
 - Carve Out Data Model First
 - Carve Out Domain Model First
 
@@ -45,6 +45,11 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
   - Replace Setter with Domain-Named Method
   - Move Domain Logic from Service Down to Entity (=> *Move Statements into Function*, *Move Statements to Caller*)
 - Introduce Contract (=> relationship to *Introduce Assertion*)
+
+#### Tactical 4 Strategic
+
+- Split Big Model into Two Small Models
+- Replace Method Call with Domain Event
 
 ## Acknowledgement
 

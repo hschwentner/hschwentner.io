@@ -2,7 +2,7 @@
 
 *Alternative to [XXXXX](XXXXXX)*
 
-![](../images/domain-driven-refactorings/XXXX.drawio.svg)
+![](../../images/domain-driven-refactorings/YYY/XXXX.drawio.svg)
 
 ## Motivation
 
