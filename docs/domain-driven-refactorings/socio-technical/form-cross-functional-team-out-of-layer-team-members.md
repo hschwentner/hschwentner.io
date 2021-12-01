@@ -1,6 +1,6 @@
 # Form Cross-Functional Team out of Layer-Team Members
 
-![](../images/domain-driven-refactorings/layer-teams-to-cross-functional-team.drawio.svg)
+![](../../images/domain-driven-refactorings/socio-technical/layer-teams-to-cross-functional-team.drawio.svg)
 
 ## Motivation
 

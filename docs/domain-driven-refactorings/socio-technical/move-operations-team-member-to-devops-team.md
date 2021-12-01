@@ -1,6 +1,6 @@
 # Move Operations Team Member to DevOps Team
 
-![](../images/domain-driven-refactorings/ops-team-to-devops.drawio.svg)
+![](../../images/domain-driven-refactorings/socio-technical/ops-team-to-devops.drawio.svg)
 
 ## Motivation
 

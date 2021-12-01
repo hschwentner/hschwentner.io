@@ -1,3 +1,7 @@
+---
+title: 
+---
+
 ![Henning Schwentner giving a presentation](images/henning-presenting.jpg)
 
 Hi, my name's Henning and I help to solve your software development problems.
@@ -17,11 +21,11 @@ You can also hire me for in-house trainings at your company.
 This ranges from a one hour inspirational talk to a [three day training course](https://www.wps.de/ddd) including many practical exercises.
 
 Topics include Domain-Driven Design, microservices, monolith splitting, Collaborative Modeling, and software architecture and development in general.
-Please see my [list of talks](https://sessionize.com/hschwentner/).
+Please see my [list of talks](https://sessionize.com/hschwentner/) and my [slide decks](https://speakerdeck.com/hschwentner/).
 
 ## Writing
 
-![Cover of book *Domain Storytelling*](https://www.informit.com/ShowCover.aspx?isbn=9780137458912&type=f) [Stefan Hofer](https://www.wps.de/sh) and I have written a book. It's called *Domain Storytelling* and shows how to understand your users by drawing pictures. If you buy it at [InformIT]() or [Amazon.com](https://amzn.to/3nF34nI) or [Amazon.de](https://amzn.to/2ZrcpWc) using these links, I'll get a small cut.
+![Cover of book *Domain Storytelling*](https://www.informit.com/ShowCover.aspx?isbn=9780137458912&type=f) [Stefan Hofer](https://www.wps.de/sh) and I have written a book. It’s called *Domain Storytelling* and shows how to understand your users by drawing pictures. If you buy it at [InformIT]() or [Amazon.com](https://amzn.to/3nF34nI) or [Amazon.de](https://amzn.to/2ZrcpWc) using these links, I’ll get a small cut.
 
 ![Cover of book *Domain-Driven Design kompakt*](https://dpunkt.de/wp-content/uploads/2020/07/12841-scaled-200x291.jpg) Together with [Carola Lilienthal](https://www.wps.de/cl) I've translated [Vaughn Vernon](https://vaughnvernon.com)'s *Domain-Driven Design Distilled* into German.
 
@@ -31,9 +35,9 @@ Also, I occasionally write magazine or blog [articles](/articles).
 
 To showcase what I think is beautiful software architecture (and when to use a not-so-beautiful style), whenever I find the time I hack on the [LeasingNinja](https://leasingninja.io).
 
-With a couple of devs from the community, I'm working on [xMolecules](https://xmolecules.org), a library to express architectural concepts and patterns as living documentation in code.
+With a couple of devs from the community, I’m working on [xMolecules](https://xmolecules.org), a library to express architectural concepts and patterns as living documentation in code.
 
-I'm one of the co-organizers of the [CoMoCamp](https://comocamp.org).
+I’m one of the co-organizers of the [CoMoCamp](https://comocamp.org).
 
 ## Bio
 

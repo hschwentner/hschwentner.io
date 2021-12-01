@@ -14,17 +14,19 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
 
 ### Strategic Refactorings
 
-- [Carve Bounded Context out of Monolith](carve-bounded-context-out-of-monolith)
+- [Carve Bounded Context out of Monolith](strategic/carve-bounded-context-out-of-monolith)
 - Implement Bounded Context from Scratch (and Replace it in the Monolith)
 - Carve Out Data Model First
 - Carve Out Domain Model First
 
+- Extract Shared Kernel From Entangled Bounded Contexts/Monolith (=> Mufrid)
+
 ### Socio-technical Refactorings (and Patterns)
 
-- [Form Cross-Functional Team out of Layer-Team Members](form-cross-functional-team-out-of-layer-team-members)
-- [Form Second Team out of Partly Layer-Team and First-Team Members](form-second-team-out-of-partly-layer-team-and-first-team-members)
-- [Form Second Team out of Only Layer-Team Members](form-second-team-out-of-partly-layer-team-and-first-team-members)
-- [Move Operations Team Member to DevOps Team](move-operations-team-member-to-devops-team)
+- [Form Cross-Functional Team out of Layer-Team Members](socio-technical/form-cross-functional-team-out-of-layer-team-members)
+- [Form Second Team out of Partly Layer-Team and First-Team Members](socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members)
+- [Form Second Team out of Only Layer-Team Members](socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members)
+- [Move Operations Team Member to DevOps Team](socio-technical/move-operations-team-member-to-devops-team)
 - Assign Bounded Context to Existing (Cross-Functional) Team
 
 - Give Core Domains to Best Team
@@ -32,7 +34,7 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
 
 ### Tactical Refactorings
 
-- [Enforce Ubiquitous Language](enforce-ubiquitous-language)
+- [Enforce Ubiquitous Language](tactical/enforce-ubiquitous-language)
 - Replace Primitive with Value Object (=> bei Fowler *Replace Primitive with Object*)
 - Split Active Record into Aggregate and Repository
 - Combine Value Objects
