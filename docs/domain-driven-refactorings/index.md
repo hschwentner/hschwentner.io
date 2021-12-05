@@ -1,5 +1,7 @@
 # Domain-Driven Refactorings
 
+Many legacy system suffers from model anemia, from being a big ball if mud, or from bad team organization. Most of them suffer from a combination of these diseases. Domain-Driven Design can help transform such systems into a healthier state.
+
 In [@Fowler2019] many standard refactorings are described; [@Kerievsky20XX] shows how to refactor the patterns from [@Gamma1995].
 On this page, I'm collecting refactorings that help to introduce patterns originally described in [@Evans2004], [@Fowler2004], and others.
 The catalog is split into three categories:
