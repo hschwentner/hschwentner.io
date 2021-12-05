@@ -37,7 +37,7 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
 - [Enforce Ubiquitous Language](tactical/enforce-ubiquitous-language)
 - Replace Primitive with Value Object (=> bei Fowler *Replace Primitive with Object*)
 - [Split Active Record into Aggregate and Repository](tactical/split-active-record-into-aggregate-and-repository)
-- [Split Repository into Interface and Implementation]
+- [Split Repository into Interface and Implementation](tactical/split-repository-into-interface-and-implementation)
 - Combine Value Objects
 - Replace Collection of Entities with Entity in Its Own Right (=> there is a relationship to *Encapsulate Collection*)
 - Replace Collection of Entities with Repository
