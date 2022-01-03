@@ -1,9 +1,15 @@
 # Domain-Driven Refactorings
 
-Many legacy system suffers from model anemia, from being a big ball if mud, or from bad team organization. Most of them suffer from a combination of these diseases. Domain-Driven Design can help transform such systems into a healthier state.
+“All happy families are alike; each unhappy family is unhappy in its own way.” This *Anna Karenina principle* applies not only to families but also to software systems. Different software systems suffer from different diseases and we need different cures for these. Many legacy systems suffer from:
+
+- model anemia,
+- being a big ball of mud, or
+- bad team organization.
+
+Most of them suffer from a combination of these diseases. Domain-Driven Design can help transform such systems into a healthier state.
 
 In [@Fowler2019] many standard refactorings are described; [@Kerievsky20XX] shows how to refactor the patterns from [@Gamma1995].
-On this page, I'm collecting refactorings that help to introduce patterns originally described in [@Evans2004], [@Fowler2004], and others.
+On this page, I’m collecting refactorings that help to introduce patterns originally described in [@Evans2004], [@Fowler2004], and others.
 The catalog is split into three categories:
 
 - **Tactical Refactorings:** Change the inner implementation of a bounded context
