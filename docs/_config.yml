@@ -30,8 +30,8 @@ url: "https://hschwentner.io" # the base hostname & protocol for your site, e.g.
 twitter_username: hschwentner
 github_username:  hschwentner
 
-#remote_theme: pages-themes/slate@v0.2.0
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: pages-themes/slate@v0.2.0
+#remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 plugins:
 - jekyll-include-cache
@@ -40,9 +40,37 @@ plugins:
 github:
   is_project_page: false # to remove GitHub badge
 
+
 # Settings for theme Minimal Mistakes
 
 #collections:
 #  domain-driven-refactorings:
 #    output: true
 #    permalink: /:collection/:path/
+
+footer:
+  links:
+    - label: "Improve this page"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hschwentner/hschwentner.io"
+    - label: "Mail"
+      icon: "fas fa-envelope"
+      url: "mailto:hs@wps.de"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/hschwentner"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/hschwentner"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/henningschwentner"
+    - label: "Xing"
+      icon: "fab fa-xing"
+      url: "https://www.xing.com/profile/JHenning_Schwentner"
+    - label: "Imprint"
+      icon: "fas fa-balance-scale"
+      url: "https://www.wps.de/impressum/"
+
+atom_feed:
+  hide: true
