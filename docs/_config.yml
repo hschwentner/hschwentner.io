@@ -30,14 +30,17 @@ url: "https://hschwentner.io" # the base hostname & protocol for your site, e.g.
 twitter_username: hschwentner
 github_username:  hschwentner
 
-#theme: jekyll-theme-slate
 #remote_theme: pages-themes/slate@v0.2.0
 remote_theme: mmistakes/minimal-mistakes@4.24.0
-#plugins:
-#- jekyll-remote-theme
 
+plugins:
+- jekyll-include-cache
+
+# Settings for theme Slate
 github:
   is_project_page: false # to remove GitHub badge
+
+# Settings for theme Minimal Mistakes
 
 #collections:
 #  domain-driven-refactorings:
