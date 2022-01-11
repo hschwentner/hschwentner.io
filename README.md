@@ -8,7 +8,7 @@ Henning Schwentner's personal website
 
 ```sh
 brew install rbenv
-rbenv local 2.7.3
+rbenv install 2.7.3
 gem install bundler jekyll
 bundle install
 ```
