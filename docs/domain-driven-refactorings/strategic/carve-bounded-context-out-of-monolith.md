@@ -2,7 +2,7 @@
 
 *Alternative to [Implement Bounded Context from Scratch](implement-bounded-context-from-scratch)*
 
-![](../../images/domain-driven-refactorings/strategic/XXXX.drawio.svg)
+![](../../images/domain-driven-refactorings/strategic/carve-bounded-context-out-of-monolith.drawio.svg)
 
 ## Motivation
 
