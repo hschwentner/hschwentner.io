@@ -10,8 +10,8 @@ A legacy system is full of domain knowledge that is probably documented nowhere 
 
 ## Mechanics
 
--
+- Analyze the domain to find out which bounded contexts should be there.
+- Identify first carve-out candidate
 - Apply the *Tactical 4 Strategic* refactorings that are right for your situation.
--
 
 ## Example(s)
