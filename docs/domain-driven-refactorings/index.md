@@ -20,6 +20,18 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
 
 ## Big Bang Approach vs. Strangler Fig Application Approach
 
+When dealing with a legacy system, generally two strategies exist:
+
+- build a new system from scratch and “when it is done” replace the old system with it
+- iteratively transform the old system into a modern state so that it becomes the new system
+
+### the *big bang replacement*
+
+![Steps of a big bang replacement](../images/domain-driven-refactorings/big-bang-replacement.drawio.svg)
+
+### strangler fig application
+
+![Evolvement of a strangler fig application](../images/domain-driven-refactorings/strangler-fig-application.drawio.svg)
 
 ## The (Currently Evolving) Catalog
 
