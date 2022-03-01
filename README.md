@@ -44,5 +44,5 @@ bundle exec jekyll serve
 Occasionally run:
 
 ```fish
-bundle update
+bundle update github-pages
 ```
