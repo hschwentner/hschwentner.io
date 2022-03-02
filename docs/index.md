@@ -3,7 +3,7 @@ title: ""
 layout: splash
 header:
   overlay_color: "#5e616c"
-  overlay_image: /images/henning-presenting.jpg
+  overlay_image: /images/henning-before-whiteboard.jpg
 excerpt: >
   Domain-Driven Design, microservices, monolith splitting, Collaborative Modeling, software architecture, and programming in general
 
