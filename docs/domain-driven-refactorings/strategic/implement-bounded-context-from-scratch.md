@@ -1,4 +1,6 @@
-# Implement Bounded Context from Scratch
+---
+title: Implement Bounded Context from Scratch
+---
 
 *Alternative to [Carve Bounded Context out of Monolith](carve-bounded-context-out-of-monolith)*
 

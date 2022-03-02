@@ -1,4 +1,6 @@
-# Split Repository into Interface and Implementation
+---
+title: Split Repository into Interface and Implementation
+---
 
 ![](../../images/domain-driven-refactorings/tactical/split-repository.drawio.svg)
 

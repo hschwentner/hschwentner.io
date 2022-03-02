@@ -1,4 +1,6 @@
-# Split Active Record into Aggregate and Repository
+---
+title: Split Active Record into Aggregate and Repository
+---
 
 ![](../../images/domain-driven-refactorings/tactical/split-active-record.drawio.svg)
 

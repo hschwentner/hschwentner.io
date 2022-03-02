@@ -1,4 +1,6 @@
-# Enforce Ubiquitous Language
+---
+title: Enforce Ubiquitous Language
+---
 
 ![](../../images/domain-driven-refactorings/tactical/enforce-ubiquitous-language.drawio.svg)
 

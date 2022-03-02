@@ -1,4 +1,6 @@
-# Form Second Cross-Functional Team out of Partly Layer-Team and First-Team Members
+---
+title: Form Second Cross-Functional Team out of Partly Layer-Team and First-Team Members
+---
 
 %% TODO: Or $following$ team
 

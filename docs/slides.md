@@ -1,4 +1,6 @@
-# Slides
+---
+title: Slides
+---
 
 Here’s a collection of slides to talks I give on a regular basis.
 

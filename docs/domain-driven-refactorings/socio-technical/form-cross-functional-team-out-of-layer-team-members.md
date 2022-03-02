@@ -1,4 +1,6 @@
-# Form Cross-Functional Team out of Layer-Team Members
+---
+title: Form Cross-Functional Team out of Layer-Team Members
+---
 
 ![](../../images/domain-driven-refactorings/socio-technical/layer-teams-to-cross-functional-team.drawio.svg)
 

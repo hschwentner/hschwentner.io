@@ -1,4 +1,6 @@
-# Form Second Team out of Only Layer-Team Members
+---
+title: Form Second Team out of Only Layer-Team Members
+---
 
 *Alternative to [Form Second Team out of Partly Layer-Team and First-Team Members](form-second-team-out-of-partly-layer-team-and-first-team-members)*
 

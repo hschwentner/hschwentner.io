@@ -1,4 +1,6 @@
-# Domain-Driven Refactorings
+---
+title: Domain-Driven Refactorings
+---
 
 “All happy families are alike; each unhappy family is unhappy in its own way.” This *Anna Karenina principle* applies not only to families but also to software systems. Different software systems suffer from different diseases and we need different cures for these. Many legacy systems suffer from:
 

@@ -1,4 +1,6 @@
-# $name$
+---
+title: $name$
+---
 
 *Alternative to [XXXXX](XXXXXX)*
 

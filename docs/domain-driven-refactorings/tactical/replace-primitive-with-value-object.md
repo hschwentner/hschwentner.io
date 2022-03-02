@@ -1,4 +1,6 @@
-# Replace Primitive with Value Object
+---
+title: Replace Primitive with Value Object
+---
 
 ![](../../images/domain-driven-refactorings/tactical/replace-primitive-with-value-object.drawio.svg)
 
