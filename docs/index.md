@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/henning-before-whiteboard-header.jpg
-  caption: "Photo: [**Clemens Heppner**](https://heppner-photography.de)"
+  caption: "Photo by [**Clemens Heppner**](https://heppner-photography.de)"
   
 excerpt: >
   Domain-Driven Design, microservices, monolith splitting, Collaborative Modeling, software architecture, and programming in general
