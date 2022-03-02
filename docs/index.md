@@ -34,8 +34,9 @@ feature_row_services:
         You can also hire me for an in-house inspirational talk at your company.
         <br/>
         <br/>
-        [List of talks](https://sessionize.com/hschwentner/){: .btn .btn--info}
+        [Videos](/videos){: .btn .btn--info}
         [Slide decks](https://speakerdeck.com/hschwentner/){: .btn .btn--info}
+        [List of talks](https://sessionize.com/hschwentner/){: .btn .btn--info}
 
 feature_row_books:
   - image_path: https://www.informit.com/ShowCover.aspx?isbn=9780137458912
