@@ -18,27 +18,37 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Henning Schwentner
-email: hs@wps.de
+# Site Settings
+locale                   : "en"
+title                    : Henning Schwentner
+title_separator          : "—"
+subtitle                 : "Coder, Coach, Consultant @ WPS" # site tagline that appears below site title in masthead
+name                     : "Henning Schwentner with ❤️ from WPS – Workplace Solutions"
+email                    : hs@wps.de
 description: >- # this means to ignore newlines until "baseurl:"
   Coder, Coach, Consultant @ WPS
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
-url: "https://hschwentner.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-repository: "hschwentner/hschwentner.io"
+url                      : "https://hschwentner.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl                  : "" # the subpath of your site, e.g. /blog
+repository               : "hschwentner/hschwentner.io"
+#teaser                   : /images/header_dst.jpg # path of fallback teaser image, e.g. "/images/500x300.png"
+#logo                     : /resources/leasingninja.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+breadcrumbs              : true  # disabled by default
 twitter_username: hschwentner
 github_username:  hschwentner
 
 # Build settings
 markdown: kramdown
 
-remote_theme: pages-themes/slate@v0.2.0
-#remote_theme: mmistakes/minimal-mistakes@4.24.0
+#remote_theme: pages-themes/slate@v0.2.0
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 plugins:
-- jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 # Settings for theme Slate
 github:
@@ -47,6 +57,20 @@ github:
 
 # Settings for theme Minimal Mistakes
 
+minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "single"
+  -
+    scope:
+      path: "domain-driven-refactorings"
+    values:
+      layout: "single"
+      
 #collections:
 #  domain-driven-refactorings:
 #    output: true

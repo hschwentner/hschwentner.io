@@ -1,35 +1,69 @@
 ---
-title: 
+title: ""
+layout: splash
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /images/henning-presenting.jpg
+excerpt: >
+  Domain-Driven Design, microservices, monolith splitting, Collaborative Modeling, software architecture, and programming in general
+
+feature_row_services:
+  - title: "Consulting"
+    excerpt: >
+        You want to understand Domain-Driven Design? Or you have a monolith/big ball of mud/legacy software you want to split? Or you're building software from scratch and don't know how?
+        <br/>
+        <br/>
+        I work with your team to get the job done!
+        <br/>
+        <br/>
+        [Contact me](mailto:hs@wps.de){: .btn .btn--info}
+  - title: Training
+    excerpt: >
+        In an intensive training course including many practical exercises I teach DDD and Domain Storytelling.
+        Either come to one of my open trainings or book me for in-house trainings at your company.
+        These can range from a half day to three days depending on your needs.
+        <br/>
+        <br/>
+        [Book DDD training](https://www.wps.de/ddd){: .btn .btn--info}
+        [Book Domain Storytelling training](https://www.wps.de/domain-storytelling){: .btn .btn--info}
+  - title: Public Speaking
+    excerpt: >
+        I regularly give talks and workshops on international conferences.
+        You can also hire me for an in-house inspirational talk at your company.
+        <br/>
+        <br/>
+        [List of talks](https://sessionize.com/hschwentner/){: .btn .btn--info}
+        [Slide decks](https://speakerdeck.com/hschwentner/){: .btn .btn--info}
+
+feature_row_books:
+  - image_path: https://www.informit.com/ShowCover.aspx?isbn=9780137458912
+    alt: Cover of book *Domain Storytelling*
+    excerpt: >
+        [Stefan Hofer](https://www.wps.de/sh) and I show how to understand your users by drawing pictures. If you buy using these links, I’ll get a small cut:
+        <br/>
+        <br/>
+        [InformIT](){: .btn .btn--info}
+        [Amazon.com](https://amzn.to/3nF34nI){: .btn .btn--info}
+        [Amazon.de](https://amzn.to/2ZrcpWc){: .btn .btn--info}
+  - image_path: https://dpunkt.de/wp-content/uploads/2020/07/12841-scaled.jpg
+    alt: Cover of book *Domain-Driven Design kompakt*
+    excerpt: >
+        Together with [Carola Lilienthal](https://www.wps.de/cl) I've translated [Vaughn Vernon](https://vaughnvernon.com)'s *Domain-Driven Design Distilled* into German.
+        <br/>
+        <br/>
+        [Amazon.de](https://amzn.to/3tqo82D){: .btn .btn--info}
+  - excerpt: >
+        Also, I occasionally write magazine or blog [articles](/articles).
+    url: "/articles/"
+    btn_class: "btn--primary"
+    btn_label: "Read on"
 ---
 
-![Henning Schwentner giving a presentation](images/henning-presenting.jpg)
-
-Hi, my name's Henning and I help to solve your software development problems.
-
-## Consulting
-
-You want to understand Domain-Driven Design?
-Or you have a monolith/big ball of mud/legacy software you want to split?
-Or you're building software from scratch and don't know how?
-
-Give me a call or write an [e-mail](mailto:hs@wps.de)!
-
-## Training/Speaking
-
-I regularly give talks and workshops on international conferences.
-You can also hire me for in-house trainings at your company.
-This ranges from a one hour inspirational talk to a [three day training course](https://www.wps.de/ddd) including many practical exercises.
-
-Topics include Domain-Driven Design, microservices, monolith splitting, Collaborative Modeling, and software architecture and development in general.
-Please see my [list of talks](https://sessionize.com/hschwentner/) and my [slide decks](https://speakerdeck.com/hschwentner/).
+{% include feature_row id="feature_row_services" %}
 
 ## Writing
 
-![Cover of book *Domain Storytelling*](https://www.informit.com/ShowCover.aspx?isbn=9780137458912&type=f) [Stefan Hofer](https://www.wps.de/sh) and I have written a book. It’s called *Domain Storytelling* and shows how to understand your users by drawing pictures. If you buy it at [InformIT]() or [Amazon.com](https://amzn.to/3nF34nI) or [Amazon.de](https://amzn.to/2ZrcpWc) using these links, I’ll get a small cut.
-
-![Cover of book *Domain-Driven Design kompakt*](https://dpunkt.de/wp-content/uploads/2020/07/12841-scaled-200x291.jpg) Together with [Carola Lilienthal](https://www.wps.de/cl) I've translated [Vaughn Vernon](https://vaughnvernon.com)'s *Domain-Driven Design Distilled* into German.
-
-Also, I occasionally write magazine or blog [articles](/articles).
+{% include feature_row id="feature_row_books" %}
 
 ## Coding and Community
 
@@ -53,12 +87,3 @@ I'm still amazed they let me play along.
 Please see [my page at WPS](https://www.wps.de/hs).
 
 We're always [looking for great new colleagues](https://www.wps.de/jobs).
-
-## Contact and Social Media
-
-[Mail](mailto:hs@wps.de)
-[Twitter](https://twitter.com/hschwentner)
-[GitHub](https://github.com/hschwentner)
-[LinkedIn](https://www.linkedin.com/in/henningschwentner)
-[Xing](https://www.xing.com/profile/JHenning_Schwentner)
-[Imprint](https://www.wps.de/impressum/)
