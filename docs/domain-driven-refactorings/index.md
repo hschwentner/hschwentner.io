@@ -74,7 +74,7 @@ When dealing with a legacy system, generally two strategies exist:
 
 #### Tactical Refactorings to Support Strategic Refactorings (Against BBOM)
 
-- [Carve Specialized Entity Out of Monolithic Entity](tactical-for-strategic/carve-specialized-entity-out-of-monolithic-entity.drawio.svg)
+- [Carve Specialized Entity Out of Monolithic Entity](tactical-for-strategic/carve-specialized-entity-out-of-monolithic-entity)
 - Replace Method Call with Domain Event
 
 ## Acknowledgement
