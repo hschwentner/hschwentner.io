@@ -57,7 +57,7 @@ When dealing with a legacy system, generally two strategies exist:
 - Give Core Domains to Best Team
 - Give Every Team one Core Domain (and additional supporting)
 
-### Tactical Refactorings
+### Tactical Refactorings (Against Model Anemia)
 
 - [Enforce Ubiquitous Language](tactical/enforce-ubiquitous-language)
 - [Replace Primitive with Value Object](tactical/replace-primitive-with-value-object)
@@ -72,9 +72,9 @@ When dealing with a legacy system, generally two strategies exist:
   - Move Domain Logic from Service Down to Entity (=> *Move Statements into Function*, *Move Statements to Caller*)
 - Introduce Contract (=> relationship to *Introduce Assertion*)
 
-#### Tactical 4 Strategic
+#### Tactical Refactorings to Support Strategic Refactorings (Against BBOM)
 
-- Split Big Model into Two Small Models
+- [Carve Specialized Entity Out of Monolithic Entity](tactical-for-strategic/carve-specialized-entity-out-of-monolithic-entity.drawio.svg)
 - Replace Method Call with Domain Event
 
 ## Acknowledgement
