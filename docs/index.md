@@ -42,7 +42,7 @@ feature_row_books:
   - image_path: https://www.informit.com/ShowCover.aspx?isbn=9780137458912
     alt: Cover of book *Domain Storytelling*
     excerpt: >
-        [Stefan Hofer](https://www.wps.de/sh) and I show how to understand your users by drawing pictures. If you buy using these links, I’ll get a small cut:
+        [Stefan Hofer](https://www.wps.de/sh) and I show how to understand your users by drawing pictures.
         <br/>
         <br/>
         [InformIT](){: .btn .btn--info}
@@ -51,9 +51,10 @@ feature_row_books:
   - image_path: https://dpunkt.de/wp-content/uploads/2020/07/12841-scaled.jpg
     alt: Cover of book *Domain-Driven Design kompakt*
     excerpt: >
-        Together with [Carola Lilienthal](https://www.wps.de/cl) I've translated [Vaughn Vernon](https://vaughnvernon.com)'s *Domain-Driven Design Distilled* into German.
+        Together with [Carola Lilienthal](https://www.wps.de/cl) I’ve translated [Vaughn Vernon](https://vaughnvernon.com)’s *Domain-Driven Design Distilled* into German.
         <br/>
         <br/>
+        [dpunkt](https://dpunkt.de/produkt/domain-driven-design-kompakt/?ref=10024){: .btn .btn--info}
         [Amazon.de](https://amzn.to/3tqo82D){: .btn .btn--info}
   - excerpt: >
         Also, I occasionally write magazine or blog [articles](/articles).
@@ -65,6 +66,9 @@ feature_row_books:
 {% include feature_row id="feature_row_services" %}
 
 ## Writing
+
+**Disclaimer:** If you buy a book using the links below, I’ll get a small cut.
+{: .notice}
 
 {% include feature_row id="feature_row_books" %}
 
@@ -80,7 +84,7 @@ I’m one of the co-organizers of the [CoMoCamp](https://comocamp.org).
 
 When people ask me for a short CV, the following is what I write. And here is a high-resolution [profile picture](images/HenningSchwentner251.jpg).
 
-“Henning loves programming in high quality. He lives this passion as coder, coach, and consultant at WPS – Workplace Solutions. There he helps teams to structure their monoliths or to build new systems from the beginning with a sustainable architecture. Microservices or self-contained systems are often the result. Henning is author of *Domain Storytelling* (published by Addison-Wesley), and the LeasingNinja.io as well as translator of *Domain-Driven Design kompakt* (published by dpunkt).”
+> “Henning loves programming in high quality. He lives this passion as coder, coach, and consultant at WPS – Workplace Solutions. There he helps teams to structure their monoliths or to build new systems from the beginning with a sustainable architecture. Microservices or self-contained systems are often the result. Henning is author of *Domain Storytelling* (published by Addison-Wesley), and the LeasingNinja.io as well as translator of *Domain-Driven Design kompakt* (published by dpunkt).”
 
 ## WPS
 
