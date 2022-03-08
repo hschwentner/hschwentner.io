@@ -104,3 +104,8 @@ footer:
 
 atom_feed:
   hide: true
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
