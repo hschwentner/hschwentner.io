@@ -5,6 +5,8 @@ title: Carve Specialized Entity Out of Monolithic Entity
 # Also known as: XXX
 ---
 
+*A special case of [Extract Class](https://refactoring.com/catalog/extractClass.html)*
+
 ![](../../images/domain-driven-refactorings/tactical-for-strategic/carve-specialized-entity-out-of-monolithic-entity.drawio.svg)
 
 ## Motivation
