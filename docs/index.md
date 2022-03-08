@@ -27,7 +27,7 @@ feature_row_services:
         <br/>
         <br/>
         [Book DDD training](https://www.wps.de/ddd){: .btn .btn--info}
-        [Book Domain Storytelling training](https://www.wps.de/domain-storytelling){: .btn .btn--info}
+        [Book Domain Storytelling training](https://www.wps.de/schulung/domain-storytelling){: .btn .btn--info}
   - title: Public Speaking
     excerpt: >
         I regularly give talks and workshops on international conferences.
