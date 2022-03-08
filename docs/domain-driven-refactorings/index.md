@@ -20,6 +20,10 @@ The catalog is split into three categories:
 - **Strategic Refactorings:** Help with splitting a monolith architecture into bounded contexts.
 - **Socio-technical Refactorings:** Reorganize the teams. This is often enabled by and/or accompanying strategic refactorings.
 
+<!--
+I use Java as language for most of the examples. The reason for that is that it’s the language in which the most monoliths have been build (although other languages are equally well suited to build them...).
+-->
+
 In the descriptions I follow the classic Fowlerian format of Introduction/Motivation/Mechanics/Example(s).
 
 ## Big Bang Approach vs. Strangler Fig Application Approach
@@ -46,6 +50,8 @@ When dealing with a legacy system, generally two strategies exist:
 - Carve Out Data Model First
 - Carve Out Domain Model First
 
+Explore:
+
 - Extract Shared Kernel From Entangled Bounded Contexts/Monolith (=> Mufrid)
 
 ### Socio-technical Refactorings (and Patterns)
@@ -55,6 +61,8 @@ When dealing with a legacy system, generally two strategies exist:
 - [Form Second Team out of Only Layer-Team Members](socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members)
 - [Move Operations Team Member to DevOps Team](socio-technical/move-operations-team-member-to-devops-team)
 - Assign Bounded Context to Existing (Cross-Functional) Team
+
+Explore:
 
 - Give Core Domains to Best Team
 - Give Every Team one Core Domain (and additional supporting)
