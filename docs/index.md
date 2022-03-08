@@ -27,7 +27,7 @@ feature_row_services:
         <br/>
         <br/>
         [Book DDD training](https://www.wps.de/ddd){: .btn .btn--info}
-        [Book Domain Storytelling training](https://www.wps.de/schulung/domain-storytelling){: .btn .btn--info}
+        [Book Domain Storytelling training](https://www.wps.de/en/schulung/domain-storytelling){: .btn .btn--info}
   - title: Public Speaking
     excerpt: >
         I regularly give talks and workshops on international conferences.
@@ -88,9 +88,9 @@ When people ask me for a short CV, the following is what I write. And here is a 
 
 ## WPS
 
-I'm lucky to work at one of the best companies in the world, [WPS – Workplace Solutions](https://wps.de).
+I'm lucky to work at one of the best companies in the world, [WPS – Workplace Solutions](https://wps.de/en).
 It's a team of people that love programming, care about their co-workers and high quality, and are fun to work with.
 I'm still amazed they let me play along.
 Please see [my page at WPS](https://www.wps.de/hs).
 
-We're always [looking for great new colleagues](https://www.wps.de/jobs).
+We're always [looking for great new colleagues](https://www.wps.de/en/jobs).
