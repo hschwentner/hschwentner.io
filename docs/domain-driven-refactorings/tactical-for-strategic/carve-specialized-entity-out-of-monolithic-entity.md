@@ -12,14 +12,14 @@ title: Carve Specialized Entity Out of Monolithic Entity
 
 ## Motivation
 
-%% TODO: or:  "When to Apply"
+As one step of [Carve Out Bounded Context (out of Monolith)](../strategic/carve-bounded-context-out-of-monolith) you’ve found a monolithic domain model. In this you have identified an entity that has become too big. The decision has been made to split it.
 
 ## Mechanics
 
 - Create empty new class in carved-out context
 - Add instance field of type new class to the old class
 - Copy to-be-moved fields from old to new class => [Move Field](https://refactoring.com/catalog/moveField.html)
-- Copy first to-be-moved method to new class
+- Copy first to-be-moved method to new class => [Move Method](https://refactoring.com/catalog/moveFunction.html)
 - Replace method body in old class with a forward to method in new class
 - Step by step replace calls to the method in the old class with calls to the method in the new class
 - Delete the implementation in the old class
