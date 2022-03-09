@@ -4,6 +4,9 @@ title: Domain-Driven Refactorings
 #toc_sticky: true
 ---
 
+**Warning:** This is unfinished work in progress. I hope it can nonetheless be of use.
+{: .notice--danger}
+
 “All happy families are alike; each unhappy family is unhappy in its own way.” This *Anna Karenina principle* applies not only to families but also to software systems. Different software systems suffer from different diseases and we need different cures for these. Many legacy systems suffer from:
 
 - model anemia,
@@ -30,18 +33,26 @@ In the descriptions I follow the classic Fowlerian format of Introduction/Motiva
 
 When dealing with a legacy system, generally two strategies exist:
 
-- build a new system from scratch and “when it is done” replace the old system with it
-- iteratively transform the old system into a modern state so that it becomes the new system
+1. Build a new system from scratch and “when it is done” replace the old system with it
+2. Iteratively transform the old system into a modern state so that it becomes the new system
 
-### the *big bang replacement*
+The idea of strategy no. 1 is that the new system will be build on a greenfield in a clean and save space. Eventually we “just flip the switch” and—snip—a new world is there. Since this reminds of the creation of the universe by the Big Bang this is called a *big bang replacement*. The steps of this approach are depicted in the following picture:
 
+<!--
 ![Steps of a big bang replacement](../images/domain-driven-refactorings/big-bang-replacement.drawio.svg)
+-->
+{% include figure image_path="../images/domain-driven-refactorings/big-bang-replacement.drawio.svg" alt="Steps of a big bang replacement" caption="Steps of a big bang replacement" %}
 
-### strangler fig application
+While it might sound reasonable in theory, practice shows that this approach is problematic. That’s why strategy no. 2 is often preferred. Step-by-step functionality is build or transformed into the new system. As early as possible the users use both the systems. Such a pattern is called a *strangler fig application* and the evolvement is shown in the following picture:
 
+<!--
 ![Evolvement of a strangler fig application](../images/domain-driven-refactorings/strangler-fig-application.drawio.svg)
+-->
+{% include figure image_path="../images/domain-driven-refactorings/strangler-fig-application.drawio.svg" alt="Evolvement of a strangler fig application" caption="Evolvement of a strangler fig application" %}
 
-## The (Currently Evolving) Catalog
+The functionality in the new system can be the result of either caring out existing functionality from the old system, building it from scratch or replacing it with standard software.
+
+## The Catalog
 
 ### Strategic Refactorings
 
@@ -89,6 +100,10 @@ Explore:
 
 ## Acknowledgement
 
-![Flip chart of refactorings gathered at KanDDDinsky 2021](../images/domain-driven-refactorings/domain-driven-refactorings-kandddinsky.jpeg)
+![Flip chart of refactorings gathered at KanDDDinsky 2021](../images/domain-driven-refactorings/domain-driven-refactorings-kandddinsky.jpeg){: width="250" .align-right}
 
-I thank the participants of the open space “Domain-Driven Refactorings” at [KanDDDinsky](https://kandddinsky.de/) 2021 conference.
+I thank the participants of the open space “Domain-Driven Refactorings” at [KanDDDinsky](https://kandddinsky.de/) 2021 conference. As you can see on the right, many of the above described refactorings have been collected there.
+
+<!--
+## Bibliography
+-->
