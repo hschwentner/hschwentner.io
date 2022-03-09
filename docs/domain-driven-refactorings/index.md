@@ -96,7 +96,7 @@ Explore:
 #### Tactical Refactorings to Support Strategic Refactorings (Against BBOM)
 
 - [Carve Specialized Entity Out of Monolithic Entity](tactical-for-strategic/carve-specialized-entity-out-of-monolithic-entity)
-- Replace Method Call with Domain Event
+- [Replace Method Call with Domain Event](tactical-for-strategic/replace-method-call-with-domain-event)
 
 ## Acknowledgement
 
