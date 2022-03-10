@@ -60,8 +60,7 @@ The functionality in the new system can be the result of either caring out exist
 | [Implement Bounded Context from Scratch (and Replace it in the Monolith)](implement-bounded-context-from-scratch) |
 | Carve Out Data Model First |
 | Carve Out Domain Model First |
-| EXPLORE: Extract Shared Kernel From Entangled Bounded Contexts/Monolith (=> Mufrid) |
-|--------|
+| EXPLORE: [Extract Shared Kernel](strategic/extract-shared-kernel.md) |
 
 | Socio-technical Refactorings (and Patterns) |
 |--------|
