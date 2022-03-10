@@ -32,7 +32,7 @@ baseurl                  : "" # the subpath of your site, e.g. /blog
 repository               : "hschwentner/hschwentner.io"
 #teaser                   : /images/header_dst.jpg # path of fallback teaser image, e.g. "/images/500x300.png"
 #logo                     : /resources/leasingninja.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-breadcrumbs              : true  # disabled by default
+#breadcrumbs              : true  # disabled by default
 twitter_username: hschwentner
 github_username:  hschwentner
 
@@ -72,7 +72,10 @@ defaults:
     values:
       layout: single
       classes: wide
-      
+      sidebar:
+#        title: Domain-Driven Refactorings
+        nav: domain-driven-refactorings-catalog
+
 #collections:
 #  domain-driven-refactorings:
 #    output: true

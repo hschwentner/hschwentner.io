@@ -1,0 +1,79 @@
+#main:
+#  - title: "Domain Storytelling"
+#    url: https://domainstorytelling.org
+#  - title: "Domain-Driven Refactoring"
+#    url: /domain-driven-refactorings
+#  - title: "WPS"
+#    url: https://wps.de
+#  - title: "About"
+#    url: /contact
+
+
+domain-driven-refactorings-catalog:
+  - title: Domain-Driven Refactorings
+    url: /domain-driven-refactorings
+#    children:
+#      - title: Introduction
+#        url: /domain-driven-refactorings
+  - title: Strategic
+    url: /domain-driven-refactorings/strategic
+    children:
+      - title: "Carve Out Bounded Context"
+        url: /domain-driven-refactorings/strategic/carve-bounded-context-out-of-monolith
+      - title: "Build Bounded Context from Scratch"
+        url: /domain-driven-refactorings/strategic/implement-bounded-context-from-scratch
+      - title: "Carve Out Data Model First"
+        url: /domain-driven-refactorings/strategic/
+      - title: "Carve Out Domain Model First"
+#        url: /domain-driven-refactorings/strategic/
+      - title: "EXPLORE: Extract Shared Kernel"
+#        url: /domain-driven-refactorings/strategic/
+
+  - title: Socio-technical
+    children:
+      - title: "Form Cross-Functional Team"
+        url: /domain-driven-refactorings/socio-technical/form-cross-functional-team-out-of-layer-team-members
+      - title: "Second Team of Partly Layer-Team"
+        url: /domain-driven-refactorings/socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members
+      - title: "Second Team of Layer-Team Only"
+        url: /domain-driven-refactorings/socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members
+      - title: "Move Operator to DevOps Team"
+        url: /domain-driven-refactorings/socio-technical/move-operations-team-member-to-devops-team
+      - title: "Assign Context to Existing Team"    # "Assign Bounded Context to Existing (Cross-Functional) Team"
+#        url: /domain-driven-refactorings/socio-technical/
+      - title: "EXPLORE: Give Cores to Best Team"    # "Assign Core Domains to Best Team"
+      - title: "EXPLORE: Give Every Team one Core"  # "Assign Every Team one Core Domain (and additional supporting)"
+
+  - title: Tactical (Against Model Anemia)
+    children:
+      - title: "Enforce Ubiquitous Language"
+        url: /domain-driven-refactorings/tactical/enforce-ubiquitous-language
+      - title: "Replace Primitive with Value Object"
+        url: /domain-driven-refactorings/tactical/replace-primitive-with-value-object
+      - title: "Split Active Record"
+        url: /domain-driven-refactorings/tactical/split-active-record-into-aggregate-and-repository
+      - title: "Extract Repository Interface"
+        url: /domain-driven-refactorings/tactical/split-repository-into-interface-and-implementation
+      - title: "Combine Value Objects"
+#        url: /domain-driven-refactorings/tactical/
+      - title: "Replace Collection with Entity" # "Replace Collection of Entities with Entity in Its Own Right"
+#        url: /domain-driven-refactorings/tactical/
+      - title: "Replace Collection with Repository" # "Replace Collection of Entities with Repository"
+#        url: /domain-driven-refactorings/tactical/
+      - title: "Heal Entity Anemia"
+#        url: /domain-driven-refactorings/tactical/
+      - title: "Remove Setter"
+#        url: /domain-driven-refactorings/tactical/
+      - title: "Replace Setter" #" with Domain-Named Method"
+#        url: /domain-driven-refactorings/tactical/
+      - title: "Move Logic from Service to Entity" # or: Behavior, or: "Move Domain Logic from Service Down to Entity"
+#        url: /domain-driven-refactorings/tactical/
+      - title: "Introduce Contract"
+#        url: /domain-driven-refactorings/tactical/
+
+  - title: Tactical (Against BBOM)
+    children:
+      - title: "Extract Specialized Entity"
+        url: /domain-driven-refactorings/tactical-for-strategic/carve-specialized-entity-out-of-monolithic-entity
+      - title: "Replace Method Call with Event"
+        url: /domain-driven-refactorings/tactical-for-strategic/replace-method-call-with-domain-event
