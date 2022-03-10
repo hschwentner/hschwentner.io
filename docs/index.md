@@ -21,7 +21,7 @@ feature_row_services:
         [Contact me](mailto:hs@wps.de){: .btn .btn--info}
   - title: Training
     excerpt: >
-        In an intensive training course including many practical exercises I teach DDD and Domain Storytelling.
+        In an intensive training course including many practical exercises I teach DDD and [Domain Storytelling](https://domainstorytelling.org).
         Either come to one of my open trainings or book me for in-house trainings at your company.
         These can range from a half day to three days depending on your needs.
         <br/>
