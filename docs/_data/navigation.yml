@@ -68,6 +68,8 @@ domain-driven-refactorings-catalog:
 #        url: /domain-driven-refactorings/tactical/
       - title: "Move Logic from Service to Entity" # or: Behavior, or: "Move Domain Logic from Service Down to Entity"
 #        url: /domain-driven-refactorings/tactical/
+      - title: "Extract Logic from Smart UI"
+#        url: /domain-driven-refactorings/tactical/
       - title: "Introduce Contract"
 #        url: /domain-driven-refactorings/tactical/
 
