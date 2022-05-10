@@ -10,7 +10,7 @@ title: Videos of Talks
 {% include video id="BWuRDKWco14" provider="youtube" %}
 
 <!-- Domain Storytelling @ microXchg 2019 
-{% include video id="S3tbRWwwGyU" provider="youtube" %}
+S3tbRWwwGyU
 -->
 
 <!-- With Stefan  @ DDD Europe 2018 -->
