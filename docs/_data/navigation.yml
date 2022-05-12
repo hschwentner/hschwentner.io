@@ -22,9 +22,9 @@ domain-driven-refactorings-catalog:
         url: /domain-driven-refactorings/strategic/carve-bounded-context-out-of-monolith
       - title: "Build Bounded Context from Scratch"
         url: /domain-driven-refactorings/strategic/implement-bounded-context-from-scratch
-      - title: "Carve Out Data Model First"
-        url: /domain-driven-refactorings/strategic/
-      - title: "Carve Out Domain Model First"
+      - title: "EXPLORE: Carve Out Data Model First"
+#        url: /domain-driven-refactorings/strategic/
+      - title: "EXPLORE: Carve Out Domain Model First"
 #        url: /domain-driven-refactorings/strategic/
       - title: "Extract Shared Kernel"
         url: /domain-driven-refactorings/strategic/extract-shared-kernel
@@ -42,7 +42,9 @@ domain-driven-refactorings-catalog:
       - title: "Assign Context to Existing Team"    # "Assign Bounded Context to Existing (Cross-Functional) Team"
 #        url: /domain-driven-refactorings/socio-technical/
       - title: "EXPLORE: Give Cores to Best Team"    # "Assign Core Domains to Best Team"
+#        url: /domain-driven-refactorings/socio-technical/
       - title: "EXPLORE: Give Every Team one Core"  # "Assign Every Team one Core Domain (and additional supporting)"
+#        url: /domain-driven-refactorings/socio-technical/
 
   - title: Tactical (Against Model Anemia)
     children:
