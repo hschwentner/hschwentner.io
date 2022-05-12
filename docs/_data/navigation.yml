@@ -27,7 +27,7 @@ domain-driven-refactorings-catalog:
       - title: "Carve Out Domain Model First"
 #        url: /domain-driven-refactorings/strategic/
       - title: "EXPLORE: Extract Shared Kernel"
-#        url: /domain-driven-refactorings/strategic/
+        url: /domain-driven-refactorings/strategic/extract-shared-kernel
 
   - title: Socio-technical
     children:
@@ -77,5 +77,7 @@ domain-driven-refactorings-catalog:
     children:
       - title: "Extract Specialized Entity"
         url: /domain-driven-refactorings/tactical-for-strategic/carve-specialized-entity-out-of-monolithic-entity
+      - title: "Extract Specialized Data Model"
+        url: /domain-driven-refactorings/tactical-for-strategic/carve-specialized-data-model-out-of-monolithic-table
       - title: "Replace Method Call with Event"
         url: /domain-driven-refactorings/tactical-for-strategic/replace-method-call-with-domain-event

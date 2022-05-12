@@ -14,6 +14,8 @@ title: Carve Specialized Entity Out of Monolithic Entity
 
 As one step of [Carve Out Bounded Context (out of Monolith)](../strategic/carve-bounded-context-out-of-monolith) you’ve found a monolithic domain model. In this you have identified an entity that has become too big. The decision has been made to split it.
 
+This is often accompanied by [Carve Specialized Data Model Out of Monolithic Table](tactical-for-strategic/carve-specialized-data-model-out-of-monolithic-table).
+
 ## Mechanics
 
 - Create empty new class in carved-out context
