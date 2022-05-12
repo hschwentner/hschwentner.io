@@ -8,7 +8,7 @@ Type: Database refactoring
 
 *A special case of [Split Table](https://databaserefactoring.com/SplitTable.html)*
 
-![](../../images/domain-driven-refactorings/tactical-for-strategic/carve-specialized-data-model-out-of-monolithic-table.drawio.svg)
+![](../../images/domain-driven-refactorings/tactical-for-strategic/carve-specialized-data-model-out-of-monolithic-table.drawio.svg){: .align-center}
 
 ## Motivation
 

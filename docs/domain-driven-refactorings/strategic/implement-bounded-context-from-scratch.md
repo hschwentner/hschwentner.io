@@ -4,7 +4,7 @@ title: Implement Bounded Context from Scratch
 
 *Alternative to [Carve Bounded Context out of Monolith](carve-bounded-context-out-of-monolith)*
 
-![](../../images/domain-driven-refactorings/strategic/implement-bounded-context-from-scratch.drawio.svg)
+![](../../images/domain-driven-refactorings/strategic/implement-bounded-context-from-scratch.drawio.svg){: .align-center}
 
 ## Motivation
 

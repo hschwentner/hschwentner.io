@@ -8,7 +8,7 @@ title: Carve Specialized Entity Out of Monolithic Entity
 
 *A special case of [Extract Class](https://refactoring.com/catalog/extractClass.html)*
 
-![](../../images/domain-driven-refactorings/tactical-for-strategic/carve-specialized-entity-out-of-monolithic-entity.drawio.svg)
+![](../../images/domain-driven-refactorings/tactical-for-strategic/carve-specialized-entity-out-of-monolithic-entity.drawio.svg){: .align-center}
 
 ## Motivation
 

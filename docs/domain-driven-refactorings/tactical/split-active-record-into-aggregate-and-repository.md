@@ -2,7 +2,7 @@
 title: Split Active Record into Aggregate and Repository
 ---
 
-![](../../images/domain-driven-refactorings/tactical/split-active-record.drawio.svg)
+![](../../images/domain-driven-refactorings/tactical/split-active-record.drawio.svg){: .align-center}
 
 ## Motivation
 
