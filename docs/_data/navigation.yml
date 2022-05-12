@@ -26,7 +26,7 @@ domain-driven-refactorings-catalog:
         url: /domain-driven-refactorings/strategic/
       - title: "Carve Out Domain Model First"
 #        url: /domain-driven-refactorings/strategic/
-      - title: "EXPLORE: Extract Shared Kernel"
+      - title: "Extract Shared Kernel"
         url: /domain-driven-refactorings/strategic/extract-shared-kernel
 
   - title: Socio-technical
