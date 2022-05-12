@@ -1,0 +1,84 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="415px" height="96px" viewBox="-0.5 -0.5 415 96" content="&lt;mxfile&gt;&lt;diagram id=&quot;7foIltER1FbrPLNxibSd&quot; name=&quot;Page-1&quot;&gt;7VZbb5swFP41SNtDo4BJkz7m0svLpKmVtmcXDmDNYGZMQvbrZ8c22JC22aRJU9UoSsx37sf2dwjQtuzuOa6LLywFGkTztAvQLoiixXwufxVw1EAUGyDnJNVQOABP5BcY0Kq1JIXGUxSMUUFqH0xYVUEiPAxzzg6+WsaoH7XGOUyApwTTKfqdpKIYlaXwByB5YSPbvEtsdQ3QFDhlBwdCtwHacsaEXpXdFqhqnW2Ltrt7QdrnxaESFxkstMUe09bUFkTXVNpuapWeOJqSr3+2KqdNiXlOqgCtpXRed/JXgqfKFH4lWK1lsSMT0IkrTElu7BKZHPDBp1zl5v8U+dkCj6T5sYOENIRVVihreR4bSKweYwVX+duTY0OFL0f9q3opZMIpeOx7zwSp8kdoWhnif0/W+m5qXFksB/HNqeHTZ6cKV6/fOn7J3vyL7JtXMnUSiLzQ0R64IPJer/Xp3J3O78ac1Z0OuWFSK6Ona5oReX3QJmOVMKwURub5DpeEKj57ALoH5VVtrCipUupju1fT3FaVA3QOZK7qPbASBD9KFSONkbawrBkt9fNh4KAQGWYpHP65MXbY0F7eex6oQS4MO5xnChvLY4pRNyWb1WqZUejWimZl2VClZrlLKG4akvht4aytUlBB5lrbEipazcJ4NXwXWmzaLoUKsJVHqxnyPtFrHYfUo/dpvw8uqU/7aTEOFAuy94fCuSabCF8ZkZn029mzr93P5WifGtbyBIyVy+JjR6s3HAl5hUBMHJ32vC/7omOwuPkYGB8D4z0MDNlqeJdTAoXLt8dEfG5MxLPFHw8K+Ti8rmpCGV750e1v&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="130" height="93" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 132px; height: 93px; padding-top: 0px; margin-left: 0px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 130px; height: 93px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin: 0px ; margin-top: 4px ; text-align: center">
+                                    <b>
+                                        RiskDecision
+                                    </b>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    votingResult
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <span>
+                                        getVotingResult()
+                                    </span>
+                                    <br/>
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    setVotingResult()
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="0" y="12" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    RiskDecision...
+                </text>
+            </switch>
+        </g>
+        <path d="M 172.5 60.17 L 172.5 31.83 L 216.05 31.83 L 216.05 12.26 L 241.5 46 L 216.05 79.74 L 216.05 60.17 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="274" y="0" width="140" height="94.5" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 142px; height: 95px; padding-top: 0px; margin-left: 274px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 140px; height: 95px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin: 0px ; margin-top: 4px ; text-align: center">
+                                    <b>
+                                        RiskDecision
+                                    </b>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    votingResult
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <span>
+                                        getVotingResult()
+                                    </span>
+                                    <br/>
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    vote()
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="274" y="12" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    RiskDecision...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

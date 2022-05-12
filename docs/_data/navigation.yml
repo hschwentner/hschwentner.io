@@ -65,9 +65,9 @@ domain-driven-refactorings-catalog:
       - title: "Heal Entity Anemia"
 #        url: /domain-driven-refactorings/tactical/
       - title: "Remove Setter"
-#        url: /domain-driven-refactorings/tactical/
+        url: /domain-driven-refactorings/tactical/remove-setter
       - title: "Replace Setter" #" with Domain-Named Method"
-#        url: /domain-driven-refactorings/tactical/
+        url: /domain-driven-refactorings/tactical/replace-setter
       - title: "Move Logic from Service to Entity" # or: Behavior, or: "Move Domain Logic from Service Down to Entity"
 #        url: /domain-driven-refactorings/tactical/
       - title: "Extract Logic from Smart UI"
