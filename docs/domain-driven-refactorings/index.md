@@ -15,8 +15,8 @@ title: Domain-Driven Refactorings
 
 Most of them suffer from a combination of these diseases. Domain-Driven Design can help transform such systems into a healthier state.
 
-In [@Fowler2019] many standard refactorings are described; [@Kerievsky20XX] shows how to refactor the patterns from [@Gamma1995].
-On this page, I’m collecting refactorings that help to introduce patterns originally described in [@Evans2004], [@Fowler2004], and others.
+In [*Refactoring: Improving the Design of Existing Software*](#Fowler2019), Martin Fowler describes many standard refactorings; [*Database Refactorings*](#) complements that book on the data side. Josh Kerievsky shows in *Refactoring to Patterns* how to refactor to the patterns from the Gang of Four’s [*Design Patterns*](#Gamma1995).
+On this page, I’m collecting refactorings that help to introduce patterns originally described in [*Domain-Driven Design*](#Evans2004) by Eric Evans, [*Patterns of Enterprise Application Architecture*](#Fowler2004) from Fowler, and others.
 The catalog is split into three categories:
 
 - **Tactical Refactorings:** Change the inner implementation of a bounded context
@@ -99,6 +99,18 @@ The functionality in the new system can be the result of either caring out exist
 
 I thank the participants of the open space “Domain-Driven Refactorings” at [KanDDDinsky](https://kandddinsky.de/) 2021 conference. As you can see on the right, many of the above described refactorings have been collected there.
 
-<!--
 ## Bibliography
--->
+
+Eric Evans. *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Boston: Addison-Wesley, 2004.
+
+Fowler, Martin. *Patterns of Enterprise Application Architecture*. Boston: Addison-Wesley, 2003.
+
+⸻. 2004. „Strangler Fig Application“. Bliki. 29. Juni. <https://martinfowler.com/bliki/StranglerFigApplication.html>.
+
+⸻. 2019. *Refactoring: Improving the Design of Existing Code*. 2. ed. Boston: Addison-Wesley, 2019.{#Fowler2019}
+
+Gamma, Erich, XXX. *Design Patterns: Elements of Reusable Software*. Reading, MA: Addison-Wesley, 1995.
+
+Kerievsky, Joshua. *Refactoring to Patterns: XXX*. Boston: Addison-Wesley, 200X.
+
+XXX. *Database Refactorings: XXX*. XX: Addison-Wesley, 200X.
