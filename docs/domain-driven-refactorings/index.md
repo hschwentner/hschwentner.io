@@ -15,7 +15,7 @@ title: Domain-Driven Refactorings
 
 Most of them suffer from a combination of these diseases. Domain-Driven Design can help transform such systems into a healthier state.
 
-In [*Refactoring: Improving the Design of Existing Software*][^#bib:Fowler2019], Martin Fowler describes many standard refactorings; [*Database Refactorings*](#bib:AmblerSadalage2006) complements that book on the data side. Josh Kerievsky shows in *Refactoring to Patterns* how to refactor to the patterns from the Gang of Four’s [*Design Patterns*](#bib:Gamma1995).
+In [*Refactoring: Improving the Design of Existing Software*][^bib:Fowler2019], Martin Fowler describes many standard refactorings; [*Database Refactorings*](#bib:AmblerSadalage2006) complements that book on the data side. Josh Kerievsky shows in *Refactoring to Patterns* how to refactor to the patterns from the Gang of Four’s [*Design Patterns*](#bib:Gamma1995).
 On this page, I’m collecting refactorings that help to introduce patterns originally described in [*Domain-Driven Design*](#bib:Evans2004) by Eric Evans, [*Patterns of Enterprise Application Architecture*](#bib:Fowler2004) from Fowler, and others.
 The catalog is split into three categories:
 
