@@ -15,8 +15,8 @@ title: Domain-Driven Refactorings
 
 Most of them suffer from a combination of these diseases. Domain-Driven Design can help transform such systems into a healthier state.
 
-In [*Refactoring: Improving the Design of Existing Software*](#Fowler2019), Martin Fowler describes many standard refactorings; [*Database Refactorings*](#) complements that book on the data side. Josh Kerievsky shows in *Refactoring to Patterns* how to refactor to the patterns from the Gang of Four’s [*Design Patterns*](#Gamma1995).
-On this page, I’m collecting refactorings that help to introduce patterns originally described in [*Domain-Driven Design*](#Evans2004) by Eric Evans, [*Patterns of Enterprise Application Architecture*](#Fowler2004) from Fowler, and others.
+In [*Refactoring: Improving the Design of Existing Software*](#bib:Fowler2019), Martin Fowler describes many standard refactorings; [*Database Refactorings*](#bib:AmblerSadalage2006) complements that book on the data side. Josh Kerievsky shows in *Refactoring to Patterns* how to refactor to the patterns from the Gang of Four’s [*Design Patterns*](#bib:Gamma1995).
+On this page, I’m collecting refactorings that help to introduce patterns originally described in [*Domain-Driven Design*](#bib:Evans2004) by Eric Evans, [*Patterns of Enterprise Application Architecture*](#bib:Fowler2004) from Fowler, and others.
 The catalog is split into three categories:
 
 - **Tactical Refactorings:** Change the inner implementation of a bounded context
@@ -101,16 +101,16 @@ I thank the participants of the open space “Domain-Driven Refactorings” at [
 
 ## Bibliography
 
-Eric Evans. *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Boston: Addison-Wesley, 2004.
+<a name="bib:AmblerSadalage2006"></a>Evans, Eric. *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Boston: Addison-Wesley, 2004.
 
-Fowler, Martin. *Patterns of Enterprise Application Architecture*. Boston: Addison-Wesley, 2003.
+<a name="bib:Fowler2003"></a>Fowler, Martin. *Patterns of Enterprise Application Architecture*. Boston: Addison-Wesley, 2003.
 
-⸻. 2004. „Strangler Fig Application“. Bliki. 29. Juni. <https://martinfowler.com/bliki/StranglerFigApplication.html>.
+<a name="bib:Fowler2004"></a>⸻. “Strangler Fig Application.” Bliki. June 29 2004. <https://martinfowler.com/bliki/StranglerFigApplication.html>.
 
-⸻. 2019. *Refactoring: Improving the Design of Existing Code*. 2. ed. Boston: Addison-Wesley, 2019.{#Fowler2019}
+<a name="bib:Fowler2019"></a>⸻. *Refactoring: Improving the Design of Existing Code*. 2. ed. Boston: Addison-Wesley, 2019.
 
-Gamma, Erich, XXX. *Design Patterns: Elements of Reusable Software*. Reading, MA: Addison-Wesley, 1995.
+<a name="bib:Gammaetal1995"></a>Gamma, Erich, Richard Helm, Ralph Johnson, and John Vlissides. *Design Patterns: Elements of Reusable Object-Oriented Software*. Reading, MA: Addison-Wesley, 1995.
 
-Kerievsky, Joshua. *Refactoring to Patterns: XXX*. Boston: Addison-Wesley, 200X.
+<a name="bib:Kerievsky2005"></a>Kerievsky, Joshua. *Refactoring to Patterns*. Boston: Addison-Wesley, 2005.
 
-XXX. *Database Refactorings: XXX*. XX: Addison-Wesley, 200X.
+<a name="bib:AmblerSadalage2006"></a>Ambler, Scott W. and Pramod J. Sadalage. *Database Refactorings: Evolutionary Database Design*. Upper Sadle River, NJ: Addison-Wesley, 2006.
