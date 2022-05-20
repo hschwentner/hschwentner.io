@@ -13,7 +13,7 @@ When the idealized context map has been drawn and we know which bounded contexts
 Implementing newly from scratch is the only possibility when the modernization is also moving to another language.
 This happens, for example, often when a project moves from Cobol to Java or C#.
 
-Building a bounded context from scratch risks losing domain knowledge that is hidden in the monolith. Also, such a bounded context may suffer from *second version syndrome*.
+Building a bounded context from scratch risks losing domain knowledge that is hidden in the monolith. Also, such a bounded context may suffer from *second-system syndrome*.
 
 ## Mechanics
 
