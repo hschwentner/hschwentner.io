@@ -20,6 +20,12 @@ To run a server locally:
 docker compose up
 ```
 
+Or to rebuild the Docker image:
+
+```fish
+docker compose up --build
+```
+
 ## Development without Docker
 
 ### Setup environment
@@ -28,8 +34,8 @@ Install Ruby and Jekyll
 
 ```fish
 brew install rbenv
-rbenv install 2.7.3
-gem install bundler jekyll
+rbenv install
+gem install bundler
 bundle install
 ```
 
@@ -44,5 +50,5 @@ bundle exec jekyll serve
 Occasionally run:
 
 ```fish
-bundle update github-pages
+bundle update
 ```
