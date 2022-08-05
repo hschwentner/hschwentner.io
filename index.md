@@ -12,7 +12,7 @@ excerpt: >
 feature_row_services:
   - title: "Consulting"
     excerpt: >
-        You want to understand Domain-Driven Design? Or you have a monolith/big ball of mud/legacy software you want to split? Or you're building software from scratch and don't know how?
+        You want to understand Domain-Driven-Design? Or you have a monolith/big ball of mud/legacy software you want to split? Or you're building software from scratch and don't know how?
         <br/>
         <br/>
         I work with your team to get the job done!
