@@ -5,7 +5,7 @@ RUN bundle config --global frozen 1
 
 WORKDIR /srv/jekyll
 
-RUN apk add --update-cache \
+RUN apk add --no-cache \
   g++ \
   make \
   libc6-compat
