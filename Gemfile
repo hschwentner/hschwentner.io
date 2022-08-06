@@ -2,13 +2,6 @@
 
 source "https://rubygems.org"
 
-# in the old days:
-#gem "github-pages", group: :jekyll_plugins
-#gem "jekyll-include-cache", group: :jekyll_plugins
-#
-#gem "jekyll", "~> 3.9"
-
-
 gem "webrick", "~> 1.7"
 
 gem "jekyll", "~> 4.2"
