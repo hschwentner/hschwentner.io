@@ -65,6 +65,7 @@ The functionality in the new system can be the result of either caring out exist
 | Socio-technical Refactorings (and Patterns) |
 |--------|
 | [Form Cross-Functional Team out of Layer-Team Members](socio-technical/form-cross-functional-team-out-of-layer-team-members) |
+| [TODO: Form Enabling Team out of Layer-Team Members](socio-technical/form-enabling-team-out-of-layer-team-members) |
 | [Form Second Team out of Partly Layer-Team and First-Team Members](socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members) |
 | [Form Second Team out of Only Layer-Team Members](socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members) |
 | [Move Operations Team Member to DevOps Team](socio-technical/move-operations-team-member-to-devops-team) |

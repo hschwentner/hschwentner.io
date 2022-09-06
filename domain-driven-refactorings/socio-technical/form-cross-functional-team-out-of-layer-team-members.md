@@ -2,6 +2,8 @@
 title: Form Cross-Functional Team out of Layer-Team Members
 ---
 
+TODO: Or: Form Stream-Aligned Team out of Layer-Team Members
+
 ![](../../images/domain-driven-refactorings/socio-technical/layer-teams-to-cross-functional-team.drawio.svg)
 
 ## Motivation
