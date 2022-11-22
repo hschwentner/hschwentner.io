@@ -63,6 +63,8 @@ feature_row_books:
     btn_label: "Read on"
 ---
 
+<a rel="me" href="https://mastodon.social/@hschwentner"></a>
+
 {% include feature_row id="feature_row_services" %}
 
 ## Writing
