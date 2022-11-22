@@ -1,10 +1,10 @@
-#main:
-#  - title: "Domain Storytelling"
-#    url: https://domainstorytelling.org
+main:
+  - title: "Domain Storytelling"
+    url: https://domainstorytelling.org
+  - title: "WPS"
+    url: https://wps.de
 #  - title: "Domain-Driven Refactoring"
 #    url: /domain-driven-refactorings
-#  - title: "WPS"
-#    url: https://wps.de
 #  - title: "About"
 #    url: /contact
 
