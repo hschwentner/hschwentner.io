@@ -64,6 +64,7 @@ feature_row_books:
 ---
 
 <a rel="me" href="https://mastodon.social/@hschwentner"></a>
+<a rel="me" href="https://social.wps.de/@hschwentner"></a>
 
 {% include feature_row id="feature_row_services" %}
 

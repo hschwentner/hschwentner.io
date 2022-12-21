@@ -95,7 +95,7 @@ footer:
       url: "https://twitter.com/hschwentner"
     - label: "Mastodon"
       icon: "fab fa-mastodon"
-      url: "https://mastodon.social/@hschwentner"
+      url: "https://social.wps.de/@hschwentner"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/hschwentner"
