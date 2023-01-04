@@ -2,6 +2,7 @@
 #title: Split Big Model into Two Small Models
 #title: Carve Small Model Out of Big Model
 #title: Extract Specialized Entity
+#title: Extract Specialized (Rich) Entity
 title: Carve Specialized Entity Out of Monolithic Entity
 # Also known as: XXX
 ---
