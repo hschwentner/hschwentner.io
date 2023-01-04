@@ -118,7 +118,6 @@ DEPENDENCIES
   jekyll-include-cache
   jemoji (~> 0.12.0)
   minimal-mistakes-jekyll (~> 4.24)
-  webrick (~> 1.7)
 
 BUNDLED WITH
    2.4.2
