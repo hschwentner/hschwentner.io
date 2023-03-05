@@ -56,7 +56,7 @@ The functionality in the new system can be the result of either caring out exist
 
 | Strategic Refactorings |
 |--------|
-| [Carve Out Bounded Context (out of Monolith)](strategic/carve-bounded-context-out-of-monolith) |
+| [Carve Out Bounded Context (out of Monolith)](strategic/extract-bounded-context) |
 | [Implement Bounded Context from Scratch (and Replace it in the Monolith)](strategic/implement-bounded-context-from-scratch) |
 | Carve Out Data Model First |
 | Carve Out Domain Model First |

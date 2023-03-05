@@ -3,7 +3,7 @@ title: Extract Shared Kernel
 #title: Extract Shared Kernel From Entangled Bounded Contexts/Monolith
 ---
 
-*Alternative/prerequisite to [Extract Bounded Context](XXXXXX) or [Implement Bounded Context from Scratch](XXX)*
+*Alternative/prerequisite to [Extract Bounded Context](/strategic/extract-bounded-context) or [Implement Bounded Context from Scratch](strategic/implement-bounded-context-from-scratch)*
 
 ![](../../images/domain-driven-refactorings/strategic/extract-shared-kernel.drawio.svg){: .align-center}
 

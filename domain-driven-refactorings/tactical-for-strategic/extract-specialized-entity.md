@@ -15,7 +15,7 @@ title: Extract Specialized Entity
 
 ## Motivation
 
-As one step of [Carve Out Bounded Context (out of Monolith)](../strategic/carve-bounded-context-out-of-monolith) you’ve found a monolithic domain model. In this you have identified an entity that has become too big. The decision has been made to split it.
+As one step of [Carve Out Bounded Context (out of Monolith)](../strategic/extract-bounded-context) you’ve found a monolithic domain model. In this you have identified an entity that has become too big. The decision has been made to split it.
 
 This is often accompanied by [Carve Specialized Data Model Out of Monolithic Table](tactical-for-strategic/extract-specialized-table).
 

@@ -18,8 +18,8 @@ domain-driven-refactorings-catalog:
   - title: Strategic
     url: /domain-driven-refactorings/strategic
     children:
-      - title: "Carve Out Bounded Context"
-        url: /domain-driven-refactorings/strategic/carve-bounded-context-out-of-monolith
+      - title: "Extract Bounded Context"
+        url: /domain-driven-refactorings/strategic/extract-bounded-context
       - title: "Build Bounded Context from Scratch"
         url: /domain-driven-refactorings/strategic/implement-bounded-context-from-scratch
       - title: "EXPLORE: Carve Out Data Model First"
@@ -77,6 +77,8 @@ domain-driven-refactorings-catalog:
 
   - title: Tactical (Against BBOM)
     children:
+      - title: "Extract Specialized Service"
+        url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-service
       - title: "Extract Specialized Entity"
         url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-entity
       - title: "Extract Specialized Anemic Entity"

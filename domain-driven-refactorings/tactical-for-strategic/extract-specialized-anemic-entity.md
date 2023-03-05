@@ -11,7 +11,7 @@ title: Carve Specialized Anemic Entity Out of Monolithic Entity
 
 ## Motivation
 
-As one step of [Carve Out Bounded Context (out of Monolith)](../strategic/carve-bounded-context-out-of-monolith) you’ve found a monolithic anemic domain model. In this you have identified an anemic entity (a “data bag”) that has become too big. The decision has been made to split it.
+As one step of [Carve Out Bounded Context (out of Monolith)](../strategic/extract-bounded-context) you’ve found a monolithic anemic domain model. In this you have identified an anemic entity (a “data bag”) that has become too big. The decision has been made to split it.
 
 This is often a follow up to [Carve Specialized Service Out of Monolithic Service](tactical-for-strategic/carve-specialized-service-out-of-monolithic-service) and accompanied by [Carve Specialized Data Model Out of Monolithic Table](tactical-for-strategic/extract-specialized-table).
 
