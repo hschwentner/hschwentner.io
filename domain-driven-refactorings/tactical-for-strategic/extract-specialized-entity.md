@@ -1,21 +1,23 @@
 ---
 #title: Split Big Model into Two Small Models
 #title: Carve Small Model Out of Big Model
-#title: Extract Specialized Entity
+title: Extract Specialized Entity
 #title: Extract Specialized (Rich) Entity
-title: Carve Specialized Entity Out of Monolithic Entity
+#title: Carve Specialized Entity Out of Monolithic Entity
 # Also known as: XXX
 ---
 
+*Also known as: Carve Specialized Entity Out of Monolithic Entity*
+
 *A special case of [Extract Class](https://refactoring.com/catalog/extractClass.html)*
 
-![](../../images/domain-driven-refactorings/tactical-for-strategic/carve-specialized-entity-out-of-monolithic-entity.drawio.svg){: .align-center}
+![](../../images/domain-driven-refactorings/tactical-for-strategic/extract-specialized-entity.drawio.svg){: .align-center}
 
 ## Motivation
 
 As one step of [Carve Out Bounded Context (out of Monolith)](../strategic/carve-bounded-context-out-of-monolith) you’ve found a monolithic domain model. In this you have identified an entity that has become too big. The decision has been made to split it.
 
-This is often accompanied by [Carve Specialized Data Model Out of Monolithic Table](tactical-for-strategic/carve-specialized-data-model-out-of-monolithic-table).
+This is often accompanied by [Carve Specialized Data Model Out of Monolithic Table](tactical-for-strategic/extract-specialized-table).
 
 ## Mechanics
 

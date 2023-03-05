@@ -90,8 +90,8 @@ The functionality in the new system can be the result of either caring out exist
 
 | Tactical Refactorings to Support Strategic Refactorings (Against BBOM)|
 |--------|
-| [Carve Specialized Entity Out of Monolithic Entity](tactical-for-strategic/carve-specialized-entity-out-of-monolithic-entity) |
-| [Carve Specialized Data Model Out of Monolithic Database Table](tactical-for-strategic/carve-specialized-data-model-out-of-monolithic-table) |
+| [Carve Specialized Entity Out of Monolithic Entity](tactical-for-strategic/extract-specialized-entity) |
+| [Carve Specialized Data Model Out of Monolithic Database Table](tactical-for-strategic/extract-specialized-table) |
 | [Replace Method Call with Domain Event](tactical-for-strategic/replace-method-call-with-domain-event) |
 
 ## Acknowledgement
