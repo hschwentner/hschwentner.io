@@ -1,7 +1,7 @@
 ---
-#title: Extract Specialized Anemic Entity
+title: Extract Specialized Anemic Entity
 #title: Extract Specialized Data Bag
-title: Carve Specialized Anemic Entity Out of Monolithic Entity
+#title: Carve Specialized Anemic Entity Out of Monolithic Entity
 # Also known as: XXX
 ---
 
