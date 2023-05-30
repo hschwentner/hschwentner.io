@@ -1,5 +1,6 @@
 ---
-title: Carve Bounded Context out of Monolith
+title: Extract Bounded Context
+#title: Carve Bounded Context out of Monolith
 ---
 
 *Alternative to [Implement Bounded Context from Scratch](implement-bounded-context-from-scratch)*
