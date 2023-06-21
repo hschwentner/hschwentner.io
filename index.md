@@ -48,6 +48,22 @@ feature_row_books:
         [InformIT](){: .btn .btn--info}
         [Amazon.com](https://amzn.to/3nF34nI){: .btn .btn--info}
         [Amazon.de](https://amzn.to/2ZrcpWc){: .btn .btn--info}
+  - image_path: https://dpunkt.de/wp-content/uploads/2023/02/13983.jpg
+    alt: Cover of German book *Domain Storytelling*
+    excerpt: >
+        The German version of *Domain Storytelling*.
+        <br/>
+        <br/>
+        [dpunkt](https://dpunkt.de/produkt/domain-storytelling/?ref=10024){: .btn .btn--info}
+        [Amazon.de](https://amzn.to/3p6ZNRn){: .btn .btn--info}
+  - image_path: https://dpunkt.de/wp-content/uploads/2023/02/13698.jpg
+    alt: Cover of book *Domain-Driven Transformation*
+    excerpt: >
+        [Carola Lilienthal](https://www.wps.de/cl) and I describe how to make monolithic legacy software future-ready again.
+        <br/>
+        <br/>
+        [dpunkt](https://dpunkt.de/produkt/domain-driven-transformation/?ref=10024){: .btn .btn--info}
+        [Amazon.de](https://amzn.to/3PnJ6M1){: .btn .btn--info}
   - image_path: https://dpunkt.de/wp-content/uploads/2020/07/12841-scaled.jpg
     alt: Cover of book *Domain-Driven Design kompakt*
     excerpt: >
@@ -70,7 +86,7 @@ feature_row_books:
 
 ## Writing
 
-**Disclaimer:** If you buy a book using the links below, I’ll get a small cut.
+**Disclaimer:** If you buy a book using the links below, I’ll get a share.
 {: .notice}
 
 {% include feature_row id="feature_row_books" %}
