@@ -103,7 +103,7 @@ I’m one of the co-organizers of the [CoMoCamp](https://comocamp.org).
 
 When people ask me for a short CV, the following is what I write. And here is a high-resolution [profile picture](images/HenningSchwentner251.jpg).
 
-> “Henning loves programming in high quality. He lives this passion as coder, coach, and consultant at WPS – Workplace Solutions. There he helps teams to structure their monoliths or to build new systems from the beginning with a sustainable architecture. Microservices or self-contained systems are often the result. Henning is author of *Domain Storytelling* (published by Addison-Wesley), and the LeasingNinja.io as well as translator of *Domain-Driven Design kompakt* (published by dpunkt).”
+> “Henning loves programming in high quality. He lives this passion as coder, coach, and consultant at WPS – Workplace Solutions. There he helps teams to restructure their monoliths or to build new systems from the beginning with a sustainable architecture. Henning is author of *Domain Storytelling* (Addison-Wesley, 2022), *Domain-Driven Transformation* (dpunkt, 2023), and the LeasingNinja.io.”
 
 ## WPS
 
