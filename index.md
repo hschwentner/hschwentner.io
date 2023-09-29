@@ -112,4 +112,4 @@ It's a team of people that love programming, care about their co-workers and hig
 I'm still amazed they let me play along.
 Please see [my page at WPS](https://www.wps.de/hs).
 
-We're always [looking for great new colleagues](https://www.wps.de/en/jobs).
+We're always [looking for great new colleagues](https://www.wps.de/karriere).
