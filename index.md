@@ -56,7 +56,7 @@ feature_row_books:
         <br/>
         [dpunkt](https://dpunkt.de/produkt/domain-storytelling/?ref=10024){: .btn .btn--info}
         [Amazon.de](https://amzn.to/3p6ZNRn){: .btn .btn--info}
-  - image_path: https://dpunkt.de/wp-content/uploads/2023/02/13698.jpg
+  - image_path: https://dpunkt.de/wp-content/uploads/2023/07/13698.jpg
     alt: Cover of book *Domain-Driven Transformation*
     excerpt: >
         [Carola Lilienthal](https://www.wps.de/cl) and I describe how to make monolithic legacy software future-ready again.
