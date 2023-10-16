@@ -1,6 +1,6 @@
 ---
-#title: Extract Specialized Table
-title: Carve Specialized Data Model Out of Monolithic Table
+title: Extract Specialized Table
+#title: Carve Specialized Data Model Out of Monolithic Table
 # Also known as: XXX
 ---
 
