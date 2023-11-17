@@ -7,6 +7,8 @@ title: Domain-Driven Refactorings
 **Warning:** This is unfinished work in progress. I hope it can nonetheless be of use.
 {: .notice--danger}
 
+![Cover of the book *Domain-Driven Transformation*](https://dpunkt.de/wp-content/uploads/2023/07/13698.jpg){: width="250" .align-right}
+
 “All happy families are alike; each unhappy family is unhappy in its own way.” This *Anna Karenina principle* applies not only to families but also to software systems. Different software systems suffer from different diseases and we need different cures for these. Many legacy systems suffer from:
 
 - model anemia,
