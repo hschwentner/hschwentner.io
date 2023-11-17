@@ -3,8 +3,8 @@ main:
     url: https://domainstorytelling.org
   - title: "WPS"
     url: https://wps.de
-#  - title: "Domain-Driven Refactoring"
-#    url: /domain-driven-refactorings
+  - title: "Domain-Driven Refactoring"
+    url: /domain-driven-refactorings
 #  - title: "About"
 #    url: /contact
 
