@@ -17,11 +17,12 @@ Most of them suffer from a combination of these diseases. Domain-Driven Design c
 
 In [*Refactoring*](#bib:Fowler2019), Martin Fowler describes many standard refactorings; [*Database Refactorings*](#bib:AmblerSadalage2006) complements that book on the data side. Josh Kerievsky shows in [*Refactoring to Patterns*](#bib:Kerievsky2005) how to refactor to the patterns from the Gang of Four’s [*Design Patterns*](#bib:Gamma1995).
 On this page, I’m collecting refactorings that help to introduce patterns originally described in [*Domain-Driven Design*](#bib:Evans2004) by Eric Evans, [*Patterns of Enterprise Application Architecture*](#bib:Fowler2004) from Fowler, and others.
-The catalog is split into three categories:
+The catalog is split into four categories:
 
-- **Tactical Refactorings:** Change the inner implementation of a bounded context
 - **Strategic Refactorings:** Help with splitting a monolith architecture into bounded contexts.
 - **Socio-technical Refactorings:** Reorganize the teams. This is often enabled by and/or accompanying strategic refactorings.
+- **Tactical Refactorings (against model anemia):** Change the inner implementation of a bounded context
+- **Tactical Refactorings (against big ball of mud):** Support the strategic refactorings,
 
 <!--
 I use Java as language for most of the examples. The reason for that is that it’s the language in which the most monoliths have been build (although other languages are equally well suited to build them...).
