@@ -56,26 +56,26 @@ domain-driven-refactorings-catalog:
         url: /domain-driven-refactorings/tactical/split-active-record-into-aggregate-and-repository
       - title: "Extract Repository Interface"
         url: /domain-driven-refactorings/tactical/split-repository-into-interface-and-implementation
-      - title: "Combine Value Objects"
-#        url: /domain-driven-refactorings/tactical/
-      - title: "Replace Collection with Entity" # "Replace Collection of Entities with Entity in Its Own Right"
-#        url: /domain-driven-refactorings/tactical/
-      - title: "Replace Collection with Repository" # "Replace Collection of Entities with Repository"
-#        url: /domain-driven-refactorings/tactical/
-      - title: "Heal Entity Anemia"
-#        url: /domain-driven-refactorings/tactical/
+      - title: "Combine Value Objects (TODO)"
+        url: /domain-driven-refactorings/tactical/combine-value-objects
+      - title: "Replace Collection with Entity (TODO)" # "Replace Collection of Entities with Entity in Its Own Right"
+        url: /domain-driven-refactorings/tactical/replace-collection-with-entity
+      - title: "Replace Collection with Repository (TODO)" # "Replace Collection of Entities with Repository"
+        url: /domain-driven-refactorings/tactical/replace-collection-with-repository
+      - title: "Heal Entity Anemia (TODO)"
+        url: /domain-driven-refactorings/tactical/heal-entity-anemia
       - title: "Remove Setter"
         url: /domain-driven-refactorings/tactical/remove-setter
       - title: "Replace Setter" #" with Domain-Named Method"
         url: /domain-driven-refactorings/tactical/replace-setter
-      - title: "Move Logic from Service to Entity" # or: Behavior, or: "Move Domain Logic from Service Down to Entity"
-#        url: /domain-driven-refactorings/tactical/
+      - title: "Move Logic from Service to Entity (TODO)" # or: Behavior, or: "Move Domain Logic from Service Down to Entity"
+        url: /domain-driven-refactorings/tactical/move-logic-from-service-to-entity
       - title: "Extract Entity from Smart UI"
         url: /domain-driven-refactorings/tactical/extract-entity-from-smart-ui
       - title: "Extract Service from Smart UI"
         url: /domain-driven-refactorings/tactical/extract-service-from-smart-ui
-      - title: "Introduce Contract"
-#        url: /domain-driven-refactorings/tactical/
+      - title: "Introduce Contract (TODO)"
+        url: /domain-driven-refactorings/tactical/introduce-contract
 
   - title: Tactical (Against BBOM)
     children:
