@@ -85,7 +85,7 @@ domain-driven-refactorings-catalog:
         url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-entity
       - title: "Extract Specialized Anemic Entity"
         url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-anemic-entity
-      - title: "Extract Specialized Data Model"
+      - title: "Extract Specialized Table"
         url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-table
       - title: "Replace Method Call with Event"
         url: /domain-driven-refactorings/tactical-for-strategic/replace-method-call-with-domain-event

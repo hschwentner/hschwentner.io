@@ -58,7 +58,7 @@ The functionality in the new system can be the result of either caring out exist
 
 | Strategic Refactorings |
 |--------|
-| [Carve Out Bounded Context (out of Monolith)](strategic/extract-bounded-context) |
+| [Extract Bounded Context](strategic/extract-bounded-context) |
 | [Implement Bounded Context from Scratch (and Replace it in the Monolith)](strategic/implement-bounded-context-from-scratch) |
 | Carve Out Data Model First |
 | Carve Out Domain Model First |
@@ -92,8 +92,10 @@ The functionality in the new system can be the result of either caring out exist
 
 | Tactical Refactorings to Support Strategic Refactorings (Against BBOM)|
 |--------|
-| [Carve Specialized Entity Out of Monolithic Entity](tactical-for-strategic/extract-specialized-entity) |
-| [Carve Specialized Data Model Out of Monolithic Database Table](tactical-for-strategic/carve-specialized-data-model-out-of-monolithic-table) |
+| [Extract Specialized Service](tactical-for-strategic/extract-specialized-service) |
+| [Extract Specialized Entity](tactical-for-strategic/extract-specialized-entity) |
+| [Extract Specialized Anemic Entity](tactical-for-strategic/extract-specialized-anemic-entity) |
+| [Extract Specialized Table](tactical-for-strategic/carve-specialized-data-model-out-of-monolithic-table) |
 | [Replace Method Call with Domain Event](tactical-for-strategic/replace-method-call-with-domain-event) |
 
 ## Acknowledgement
