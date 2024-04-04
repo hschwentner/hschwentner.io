@@ -16,7 +16,7 @@ As the result of the analysis of a monolithic piece of software one or several b
 - Identify the elements that shall be members of the shared kernel.
 - Create a new package/module for the shared kernel.
 - Move the elements to the new package/module with refactoring XXXX.
-- After finishing the extraction of the shared kernel, proceed with [Extract Bounded Context](XXXXXX).
+- After finishing the extraction of the shared kernel, proceed with [Extract Bounded Context](/strategic/extract-bounded-context).
 
 ## Example(s)
 

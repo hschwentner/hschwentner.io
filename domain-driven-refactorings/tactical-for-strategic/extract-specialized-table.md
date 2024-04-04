@@ -12,7 +12,7 @@ Type: Database refactoring
 
 ## Motivation
 
-As one step of [Carve Out Bounded Context (out of Monolith)](../strategic/extract-bounded-context) you’ve found a monolithic data model. (Often used to store a monolithic domain model.) In this data model you have identified a table that has become too big. The decision has been made to separate the parts for the newly extracted bounded context.
+As one step of [Extract Bounded Context](../strategic/extract-bounded-context) you’ve found a monolithic data model. (Often used to store a monolithic domain model.) In this data model you have identified a table that has become too big. The decision has been made to separate the parts for the newly extracted bounded context.
 
 ## Mechanics
 

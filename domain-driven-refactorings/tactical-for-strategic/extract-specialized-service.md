@@ -1,8 +1,8 @@
 ---
 title: Extract Specialized Service
-subtitle: Carve Specialized Anemic Service Out of Monolithic Service
-# Also known as: XXX
 ---
+
+*Also known as: Carve Specialized Anemic Service Out of Monolithic Service*
 
 *A special case of [Extract Class](https://refactoring.com/catalog/extractClass.html)*
 
@@ -10,7 +10,7 @@ subtitle: Carve Specialized Anemic Service Out of Monolithic Service
 
 ## Motivation
 
-As one step of [Carve Out Bounded Context (out of Monolith)](../strategic/extract-bounded-context) you’ve found a domain service that has become too big. The decision has been made to split it.
+As one step of [Extract Bounded Context](../strategic/extract-bounded-context) you’ve found a domain service that has become too big. The decision has been made to split it.
 
 ## Mechanics
 
