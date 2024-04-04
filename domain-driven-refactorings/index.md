@@ -9,17 +9,14 @@ title: Domain-Driven Refactorings
 
 ![Cover of the book *Domain-Driven Transformation*](https://dpunkt.de/wp-content/uploads/2023/07/13698.jpg){: width="250" .align-right}
 
-“All happy families are alike; each unhappy family is unhappy in its own way.” This *Anna Karenina principle* applies not only to families but also to software systems. Different software systems suffer from different diseases and we need different cures for these. Many legacy systems suffer from:
+“All happy families are alike; each unhappy family is unhappy in its own way.” This *Anna Karenina principle* applies not only to families but also to software systems. Different software systems suffer from different diseases and we need different cures for these. Many legacy systems suffer from one or more of the following diseases:
 
-- model anemia,
-- being a big ball of mud, or
-- bad team organization.
+- The legacy system has become a **big ball of mud** because no one controlled the dependencies and now everything is connected to everything else.
+- The domain knowledge is entangled into one **huge domain model** whose parts fit together only partially or even contradict each other.
+- **Business source code and technical source code** are mixed, and thus the replacement of obsolete technology or a domain extension becomes a Herculean task.
+- People are organized in a **team structure** that is unsuitable for making fast progress.
 
-Most of them suffer from a combination of these diseases. Domain-Driven Design can help transform such systems into a healthier state.
-
-In [*Refactoring*](#bib:Fowler2019), Martin Fowler describes many standard refactorings; [*Database Refactorings*](#bib:AmblerSadalage2006) complements that book on the data side. Josh Kerievsky shows in [*Refactoring to Patterns*](#bib:Kerievsky2005) how to refactor to the patterns from the Gang of Four’s [*Design Patterns*](#bib:Gamma1995).
-On this page, I’m collecting refactorings that help to introduce patterns originally described in [*Domain-Driven Design*](#bib:Evans2004) by Eric Evans, [*Patterns of Enterprise Application Architecture*](#bib:Fowler2004) from Fowler, and others.
-The catalog is split into four categories:
+[Carola Lilienthal](https://www.wps.de/cl) and I have collected the treatments for these diseases and written them down in our book [*Domain-Driven Transformation*](#bib:LilienthalSchwentner2024). <!--We use a combination of **Domain-Driven Design (DDD)**, **Refactorings**, **Domain Storytelling**, **EventStorming**, **Team Topologies** and the **Modularity Maturity Index (MMI)**.--> To perform the transformation, one needs *domain-driven refactorings*, which are collected here on this website. The catalog is split into four categories:
 
 - **Strategic Refactorings:** Help with splitting a monolith architecture into bounded contexts.
 - **Socio-technical Refactorings:** Reorganize the teams. This is often enabled by and/or accompanying strategic refactorings.
@@ -32,6 +29,7 @@ I use Java as language for most of the examples. The reason for that is that it�
 
 In the descriptions I follow the classic Fowlerian format of Introduction/Motivation/Mechanics/Example(s).
 
+<!--
 ## Big Bang Approach vs. Strangler Fig Application Approach
 
 When dealing with a legacy system, generally two strategies exist:
@@ -43,17 +41,18 @@ The idea of strategy no. 1 is that the new system will be build on a greenfield 
 
 <!--
 ![Steps of a big bang replacement](../images/domain-driven-refactorings/big-bang-replacement.drawio.svg)
--->
+- ->
 {% include figure image_path="../images/domain-driven-refactorings/big-bang-replacement.drawio.svg" alt="Steps of a big bang replacement" caption="Steps of a big bang replacement" %}
 
 While it might sound reasonable in theory, practice shows that this approach is problematic. That’s why strategy no. 2 is often preferred. Step-by-step functionality is build or transformed into the new system. As early as possible the users use both the systems. Such a pattern is called a *strangler fig application* and the evolvement is shown in the following picture:
 
 <!--
 ![Evolvement of a strangler fig application](../images/domain-driven-refactorings/strangler-fig-application.drawio.svg)
--->
+- ->
 {% include figure image_path="../images/domain-driven-refactorings/strangler-fig-application.drawio.svg" alt="Evolvement of a strangler fig application" caption="Evolvement of a strangler fig application" %}
 
 The functionality in the new system can be the result of either caring out existing functionality from the old system, building it from scratch or replacing it with standard software.
+-->
 
 ## The Catalog
 
@@ -103,7 +102,12 @@ The functionality in the new system can be the result of either caring out exist
 
 I thank the participants of the open space “Domain-Driven Refactorings” at [KanDDDinsky](https://kandddinsky.de/) 2021 conference. As you can see on the right, many of the above described refactorings have been collected there.
 
+In [*Refactoring*](#bib:Fowler2019), Martin Fowler describes many standard refactorings; [*Database Refactorings*](#bib:AmblerSadalage2006) complements that book on the data side. Josh Kerievsky shows in [*Refactoring to Patterns*](#bib:Kerievsky2005) how to refactor to the patterns from the Gang of Four’s [*Design Patterns*](#bib:Gamma1995).
+On this page, I’m collecting refactorings that help to introduce patterns originally described in [*Domain-Driven Design*](#bib:Evans2004) by Eric Evans, [*Patterns of Enterprise Application Architecture*](#bib:Fowler2004) from Fowler, and others.
+
 ## Bibliography
+
+<a name="bib:AmblerSadalage2006"></a>Ambler, Scott W. and Pramod J. Sadalage. *Database Refactorings: Evolutionary Database Design*. Upper Sadle River, NJ: Addison-Wesley, 2006.
 
 <a name="bib:AmblerSadalage2006"></a>Evans, Eric. *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Boston: Addison-Wesley, 2004.
 
@@ -117,4 +121,4 @@ I thank the participants of the open space “Domain-Driven Refactorings” at [
 
 <a name="bib:Kerievsky2005"></a>Kerievsky, Joshua. *Refactoring to Patterns*. Boston: Addison-Wesley, 2005.
 
-<a name="bib:AmblerSadalage2006"></a>Ambler, Scott W. and Pramod J. Sadalage. *Database Refactorings: Evolutionary Database Design*. Upper Sadle River, NJ: Addison-Wesley, 2006.
+<a name="bib:LilienthalSchwentner2024"></a>Lilienthal, Carola and Henning Schwentner. [*Domain-Driven Transformation: Modularize and Modernize Legacy Software*](http://domain-driven-transformation.com). Boston: Addison-Wesley, 2024.
