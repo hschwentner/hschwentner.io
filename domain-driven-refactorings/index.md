@@ -56,26 +56,45 @@ The functionality in the new system can be the result of either caring out exist
 
 ## The Catalog
 
+<!--
+TODO: what to do with the strategies (or patterns)?
+
+| Strategic Strategies |
+|--------|
+| STRATEGY: Carve Out Data Model First |
+| STRATEGY: Carve Out Domain Model First |
+
+| Socio-technical Strategies |
+|--------|
+| STRATEGY: Give Core Domains to Best Team |
+| STRATEGY: Give Every Team one Core Domain (and additional supporting) |
+
+-->
+
 | Strategic Refactorings |
 |--------|
 | [Extract Bounded Context](strategic/extract-bounded-context) |
 | [Implement Bounded Context from Scratch (and Replace it in the Monolith)](strategic/implement-bounded-context-from-scratch) |
-| Carve Out Data Model First |
-| Carve Out Domain Model First |
-| EXPLORE: [Extract Shared Kernel](strategic/extract-shared-kernel.md) |
+| [Extract Shared Kernel](strategic/extract-shared-kernel) |
 
-| Socio-technical Refactorings (and Patterns) |
+| Tactical Refactorings that Support Strategic Refactorings <!--(Against BBOM)-->|
+|--------|
+| [Extract Specialized Service](tactical-for-strategic/extract-specialized-service) |
+| [Extract Specialized Entity](tactical-for-strategic/extract-specialized-entity) |
+| [Extract Specialized Anemic Entity](tactical-for-strategic/extract-specialized-anemic-entity) |
+| [Extract Specialized Table](tactical-for-strategic/carve-specialized-data-model-out-of-monolithic-table) |
+| [Replace Method Call with Domain Event](tactical-for-strategic/replace-method-call-with-domain-event) |
+
+| Socio-Technical Refactorings |
 |--------|
 | [Form Cross-Functional Team out of Layer-Team Members](socio-technical/form-cross-functional-team-out-of-layer-team-members) |
 | [TODO: Form Enabling Team out of Layer-Team Members](socio-technical/form-enabling-team-out-of-layer-team-members) |
 | [Form Second Team out of Partly Layer-Team and First-Team Members](socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members) |
 | [Form Second Team out of Only Layer-Team Members](socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members) |
 | [Move Operations Team Member to DevOps Team](socio-technical/move-operations-team-member-to-devops-team) |
-| Assign Bounded Context to Existing (Cross-Functional) Team |
-| EXPLORE: Give Core Domains to Best Team |
-| EXPLORE: Give Every Team one Core Domain (and additional supporting) |
+| [Assign Bounded Context to Existing (Cross-Functional) Team](socio-technical/assign-context-to-existing-team) |
 
-| Tactical Refactorings (Against Model Anemia) |
+| Tactical Refactorings that Strengthen Domain Knowledge in the Code <!--(Against Model Anemia)--> |
 |--------|
 | [Enforce Ubiquitous Language](tactical/enforce-ubiquitous-language) |
 | [Replace Primitive with Value Object](tactical/replace-primitive-with-value-object) |
@@ -90,28 +109,21 @@ The functionality in the new system can be the result of either caring out exist
 |  - Move Domain Logic from Service Down to Entity (=> *Move Statements into Function*, *Move Statements to Caller*) |
 | Introduce Contract (=> relationship to *Introduce Assertion*) |
 
-| Tactical Refactorings to Support Strategic Refactorings (Against BBOM)|
-|--------|
-| [Extract Specialized Service](tactical-for-strategic/extract-specialized-service) |
-| [Extract Specialized Entity](tactical-for-strategic/extract-specialized-entity) |
-| [Extract Specialized Anemic Entity](tactical-for-strategic/extract-specialized-anemic-entity) |
-| [Extract Specialized Table](tactical-for-strategic/carve-specialized-data-model-out-of-monolithic-table) |
-| [Replace Method Call with Domain Event](tactical-for-strategic/replace-method-call-with-domain-event) |
-
 ## Acknowledgement
 
 ![Flip chart of refactorings gathered at KanDDDinsky 2021](../images/domain-driven-refactorings/domain-driven-refactorings-kandddinsky.jpeg){: width="250" .align-right}
 
 I thank the participants of the open space “Domain-Driven Refactorings” at [KanDDDinsky](https://kandddinsky.de/) 2021 conference. As you can see on the right, many of the above described refactorings have been collected there.
 
-In [*Refactoring*](#bib:Fowler2019), Martin Fowler describes many standard refactorings; [*Database Refactorings*](#bib:AmblerSadalage2006) complements that book on the data side. Josh Kerievsky shows in [*Refactoring to Patterns*](#bib:Kerievsky2005) how to refactor to the patterns from the Gang of Four’s [*Design Patterns*](#bib:Gamma1995).
+<!-- TODO: add mike feathers-->
+In [*Refactoring*](#bib:Fowler2019), Martin Fowler describes many standard refactorings; [*Database Refactorings*](#bib:AmblerSadalage2006) complements that book on the data side. Josh Kerievsky shows in [*Refactoring to Patterns*](#bib:Kerievsky2005) how to refactor to the patterns from the Gang of Four’s [*Design Patterns*](#bib:Gammaetal1995).
 On this page, I’m collecting refactorings that help to introduce patterns originally described in [*Domain-Driven Design*](#bib:Evans2004) by Eric Evans, [*Patterns of Enterprise Application Architecture*](#bib:Fowler2004) from Fowler, and others.
 
 ## Bibliography
 
 <a name="bib:AmblerSadalage2006"></a>Ambler, Scott W. and Pramod J. Sadalage. *Database Refactorings: Evolutionary Database Design*. Upper Sadle River, NJ: Addison-Wesley, 2006.
 
-<a name="bib:AmblerSadalage2006"></a>Evans, Eric. *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Boston: Addison-Wesley, 2004.
+<a name="bib:Evans2004"></a>Evans, Eric. *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Boston: Addison-Wesley, 2004.
 
 <a name="bib:Fowler2003"></a>Fowler, Martin. *Patterns of Enterprise Application Architecture*. Boston: Addison-Wesley, 2003.
 

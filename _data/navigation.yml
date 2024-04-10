@@ -22,14 +22,23 @@ domain-driven-refactorings-catalog:
         url: /domain-driven-refactorings/strategic/extract-bounded-context
       - title: "Build Bounded Context from Scratch"
         url: /domain-driven-refactorings/strategic/implement-bounded-context-from-scratch
-      - title: "EXPLORE: Carve Out Data Model First"
-#        url: /domain-driven-refactorings/strategic/
-      - title: "EXPLORE: Carve Out Domain Model First"
-#        url: /domain-driven-refactorings/strategic/
       - title: "Extract Shared Kernel"
         url: /domain-driven-refactorings/strategic/extract-shared-kernel
 
-  - title: Socio-technical
+  - title: Tactical that Support Strategic
+    children:
+      - title: "Extract Specialized Service"
+        url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-service
+      - title: "Extract Specialized Entity"
+        url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-entity
+      - title: "Extract Specialized Anemic Entity"
+        url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-anemic-entity
+      - title: "Extract Specialized Table"
+        url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-table
+      - title: "Replace Method Call with Event"
+        url: /domain-driven-refactorings/tactical-for-strategic/replace-method-call-with-domain-event
+
+  - title: Socio-Technical
     children:
       - title: "Form Cross-Functional Team"
         url: /domain-driven-refactorings/socio-technical/form-cross-functional-team-out-of-layer-team-members
@@ -40,13 +49,9 @@ domain-driven-refactorings-catalog:
       - title: "Move Operator to DevOps Team"
         url: /domain-driven-refactorings/socio-technical/move-operations-team-member-to-devops-team
       - title: "Assign Context to Existing Team"    # "Assign Bounded Context to Existing (Cross-Functional) Team"
-#        url: /domain-driven-refactorings/socio-technical/
-      - title: "EXPLORE: Give Cores to Best Team"    # "Assign Core Domains to Best Team"
-#        url: /domain-driven-refactorings/socio-technical/
-      - title: "EXPLORE: Give Every Team one Core"  # "Assign Every Team one Core Domain (and additional supporting)"
-#        url: /domain-driven-refactorings/socio-technical/
+        url: /domain-driven-refactorings/socio-technical/assign-context-to-existing-team
 
-  - title: Tactical (Against Model Anemia)
+  - title: Tactical that Strengthen Domain Knowledge
     children:
       - title: "Enforce Ubiquitous Language"
         url: /domain-driven-refactorings/tactical/enforce-ubiquitous-language
@@ -76,16 +81,3 @@ domain-driven-refactorings-catalog:
         url: /domain-driven-refactorings/tactical/extract-service-from-smart-ui
       - title: "Introduce Contract (TODO)"
         url: /domain-driven-refactorings/tactical/introduce-contract
-
-  - title: Tactical (Against BBOM)
-    children:
-      - title: "Extract Specialized Service"
-        url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-service
-      - title: "Extract Specialized Entity"
-        url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-entity
-      - title: "Extract Specialized Anemic Entity"
-        url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-anemic-entity
-      - title: "Extract Specialized Table"
-        url: /domain-driven-refactorings/tactical-for-strategic/extract-specialized-table
-      - title: "Replace Method Call with Event"
-        url: /domain-driven-refactorings/tactical-for-strategic/replace-method-call-with-domain-event
