@@ -6,7 +6,7 @@ title: Split Active Record into Aggregate and Repository
 
 ## Motivation
 
-An *active record* is a part of a domain model that does two things: (a) it represents a concept from the domain and (b) it manages the storage of that concept. This refactoring separates these two responsibilities from each other.
+An [*Active Record*](https://www.martinfowler.com/eaaCatalog/activeRecord.html) is a part of the domain logic that does two things: (a) it represents a concept from the domain and (b) it manages the storage of that concept. This refactoring separates these two responsibilities from each other.
 
 ## Mechanics
 
