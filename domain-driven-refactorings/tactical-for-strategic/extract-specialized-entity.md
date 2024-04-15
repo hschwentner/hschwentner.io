@@ -23,8 +23,8 @@ This is often accompanied by [Extract Specialized Table](tactical-for-strategic/
 
 - Create empty new class in carved-out context
 - Add instance field of type new class to the old class
-- Copy to-be-moved fields from old to new class => [Move Field](https://refactoring.com/catalog/moveField.html)
-- Copy first to-be-moved method to new class => [Move Method](https://refactoring.com/catalog/moveFunction.html)
+- Copy to-be-moved fields from old to new class with [Move Field](https://refactoring.com/catalog/moveField.html)
+- Copy first to-be-moved method to new class with [Move Method](https://refactoring.com/catalog/moveFunction.html)
 - Replace method body in old class with a forward to method in new class
 - Step by step replace calls to the method in the old class with calls to the method in the new class
 - Delete the implementation in the old class
