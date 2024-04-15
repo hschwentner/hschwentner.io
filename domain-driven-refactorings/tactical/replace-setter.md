@@ -8,7 +8,7 @@ title: Replace Setter
 
 ## Motivation
 
-As one of the first lessons in programming we have learned that it’s good thing to protect variables and make them as less visible as possible. (A direct application of Parnas’s *information hiding*.) Instance variables or fields in classes are therefore by default declared `private`. Unfortunately, many programmers have also learned that the next thing is to write a getter and setter for that variable. Just as unfortunately, modern IDEs support this bad behavior with automatic generation of these accessor methods. If your on the JVM, the Java Beans convention enforces it.
+As one of the first lessons in programming we have learned that it’s good thing to protect variables and make them as less visible as possible. (A direct application of Parnas’s *information hiding*.) Instance variables or fields in classes are therefore by default declared `private`. Unfortunately, many programmers have also learned that the next thing is to write a getter and setter for that variable. Just as unfortunately, modern IDEs support this bad behavior with automatic generation of these accessor methods. If you’re on the JVM, the Java Beans convention enforces it.
 
 A better (and more domain-driven) approach is to build our classes with methods that resemble domain behavior and have names that expresses this behavior. The verbs in the method names should come from the domain and *set* is a verb that is just not used in most domain.
 
