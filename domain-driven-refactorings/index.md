@@ -121,7 +121,7 @@ On this page, I’m collecting refactorings that help to introduce patterns orig
 
 ## Bibliography
 
-<a name="bib:AmblerSadalage2006"></a>Ambler, Scott W. and Pramod J. Sadalage. *Database Refactorings: Evolutionary Database Design*. Upper Sadle River, NJ: Addison-Wesley, 2006.
+<a name="bib:AmblerSadalage2006"></a>Ambler, Scott W. and Pramod J. Sadalage. *Database Refactorings: Evolutionary Database Design*. Upper Saddle River, NJ: Addison-Wesley, 2006.
 
 <a name="bib:Evans2004"></a>Evans, Eric. *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Boston: Addison-Wesley, 2004.
 
