@@ -1,0 +1,84 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="498px" height="96px" viewBox="-0.5 -0.5 498 96" content="&lt;mxfile&gt;&lt;diagram id=&quot;7foIltER1FbrPLNxibSd&quot; name=&quot;Page-1&quot;&gt;1Vdbb9owFP41kdoHULBJoY9cenmZNKkPe3aTQ2LNiTPHQNivnx3bSUxCqappGgiB8537sc9nCPAmr18EKbNvPAEWoDCpA7wNEMIYqU8NnAyA8NwAqaCJgWYd8EZ/gwVDi+5pApWnKDlnkpY+GPOigFh6GBGCH321HWd+1JKkMADeYsKG6A+ayMygURh2+CvQNLORsRPkxOlaoMpIwo89CD8FeCM4l2aV1xtgunWuLcbu+YK0zUtAIT9lEBmLA2F7W1uAHpiyXZc6PXmyJT/82uuc1jkRKS0CvFLSsKzVpwKbyjQ+kbw0snlPJqGWE8Joau1ilRyIzqdapfa7ifzugM1e6EJWccz3qh4rVtW8n5sorDzHMqErcGfHBZtdjvulihnsZK/kizWJm0u5KknhsCOVWSLI8U7ZrXK9G/e9Ovqa4+UhL090ACGpGqeVORTb5tis7RHZmvzWXGntWDMdO6pOLV7veCEtGcyQfX4mOWWaRl6BHUB71X2UOdNKbez+RNgh0TlA3YPshLwAz0GKk1Kx0jk2FifHXg/m+diN/gzbgc56Y790jGPZJm09dxOpFnYoxwcULUYG9KybikRKvdwxqFea3VTZUCR2uY0ZqSoa+20Rag8T0EFCo+14DC+ns/mye0dGbNuuhFFzHIwyWk6x90IfdRwSj1WH/T72uXTYT4cJYETSg8/FY022Eb5zqtnDbWd7i7j9XETTReR7qfhexGAN+/x57mt53ZdUUwdy4KvZ+bb4Tx2G6PH/ZOuRyO9cJCAmMWdcGD8HIu4mkz5+b7yc+f086d8gp95QyrTaaAaG5I74hG/YfmzPSfwzbYilv++0oJISNrrXH7bl+q3yr+7Av1Jre4W27QyDxUiXF9srPbh2hm76rsWzhU+o6HFw2Sp0eDk8zqfR5ZvgwnWrHrvf2oaQu/8r+OkP&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="7" width="130" height="81" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 132px; height: 81px; padding-top: 7px; margin-left: 0px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 130px; height: 81px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin: 0px ; margin-top: 4px ; text-align: center">
+                                    <b>
+                                        CurrentAccount
+                                    </b>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <br/>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <span>
+                                        withdraw(:Amount)
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="0" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    CurrentAccount...
+                </text>
+            </switch>
+        </g>
+        <path d="M 167.5 60.92 L 167.5 32.58 L 211.05 32.58 L 211.05 13.01 L 236.5 46.75 L 211.05 80.49 L 211.05 60.92 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="274" y="0" width="223" height="94.5" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 225px; height: 95px; padding-top: 0px; margin-left: 274px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 223px; height: 95px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin: 0px ; margin-top: 4px ; text-align: center">
+                                    <b style="border-color: var(--border-color);">
+                                        CurrentAccount
+                                    </b>
+                                    <br/>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <br/>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    isCovered(amount)
+                                    <span style="background-color: initial;">
+                                        <br/>
+                                    </span>
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <span style="background-color: initial;">
+                                        withdraw(amount) {isCovered(amount)}
+                                    </span>
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="274" y="12" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    CurrentAccount...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>

@@ -107,7 +107,7 @@ TODO: what to do with the strategies (or patterns)?
 |  - Remove Setter |
 |  - Replace Setter with Domain-Named Method |
 |  - Move Domain Logic from Service Down to Entity (=> *Move Statements into Function*, *Move Statements to Caller*) |
-| Introduce Contract (=> relationship to *Introduce Assertion*) |
+| [Introduce Contract](tactical/introduce-contract) |
 
 ## Acknowledgement
 

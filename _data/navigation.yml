@@ -75,9 +75,9 @@ domain-driven-refactorings-catalog:
         url: /domain-driven-refactorings/tactical/replace-setter
       - title: "Move Logic from Service to Entity (TODO)" # or: Behavior, or: "Move Domain Logic from Service Down to Entity"
         url: /domain-driven-refactorings/tactical/move-logic-from-service-to-entity
-      - title: "Extract Entity from Smart UI"
+      - title: "Extract Entity from Smart UI (TODO)"
         url: /domain-driven-refactorings/tactical/extract-entity-from-smart-ui
-      - title: "Extract Service from Smart UI"
+      - title: "Extract Service from Smart UI (TODO)"
         url: /domain-driven-refactorings/tactical/extract-service-from-smart-ui
-      - title: "Introduce Contract (TODO)"
+      - title: "Introduce Contract"
         url: /domain-driven-refactorings/tactical/introduce-contract
