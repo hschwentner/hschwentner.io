@@ -12,7 +12,7 @@ As one of the first lessons in programming we have learned that it’s good thin
 
 A better (and more domain-driven) approach is to build our classes with methods that resemble domain behavior and have names that expresses this behavior. The verbs in the method names should come from the domain and *set* is a verb that is just not used in most domain.
 
-If the setter is never used and just there because it has been generated automatically, apply [Remove Setter](replace-setter).
+If the setter is never used and just there because it has been generated automatically, apply [Remove Setter](remove-setter).
 
 ## Mechanics
 
