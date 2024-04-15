@@ -10,7 +10,7 @@ title: Extract Specialized Service
 
 ## Motivation
 
-As one step of [Extract Bounded Context](../strategic/extract-bounded-context) you’ve found a domain service that has become too big. The decision has been made to split it.
+As one step of [Extract Bounded Context](../strategic/extract-bounded-context) you’ve found a domain service that has become too big. Its functionality belongs partly into the bounded context that is extracted. The decision has been made to split it.
 
 ## Mechanics
 
