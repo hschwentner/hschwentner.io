@@ -6,11 +6,11 @@ title: Split Active Record into Aggregate and Repository
 
 ## Motivation
 
-An [*Active Record*](https://www.martinfowler.com/eaaCatalog/activeRecord.html) is a part of the domain logic that does two things: (a) it represents a concept from the domain and (b) it manages the storage of that concept. This refactoring separates these two responsibilities from each other.
+An [Active Record](https://www.martinfowler.com/eaaCatalog/activeRecord.html) (described in [*Patterns of Enterprise Application Architecture*](https://amzn.to/3Q3gSWw)) is a part of the domain logic that does two things: (a) it represents a concept from the domain and (b) it manages the storage of that concept. This refactoring separates these two responsibilities from each other.
 
 ## Mechanics
 
-- Identify methods in active records as either domain logic or data access logic. If they are mixed use [*Extract Method*](https://refactoring.com/catalog/extractMethod.html) first.
+- Identify methods in active records as either domain logic or data access logic. If they are mixed use [Extract Method](https://refactoring.com/catalog/extractMethod.html) first.
 - Create repository class and copy all data access logic into it.
 - Mark all data access methods in active record as `@Deprecated` or `[Obsolete]`or the like.
 - Replace every call to a data access method of the active record with a a call to the corresponding method in the repository.
