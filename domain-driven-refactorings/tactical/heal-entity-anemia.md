@@ -2,7 +2,7 @@
 title: Heal Entity Anemia
 ---
 
-![](../../images/domain-driven-refactorings/YYY/XXXX.drawio.svg){: .align-center}
+<!-- ![](../../images/domain-driven-refactorings/YYY/XXXX.drawio.svg){: .align-center} -->
 
 ## Motivation
 
