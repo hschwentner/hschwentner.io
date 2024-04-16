@@ -12,6 +12,8 @@ In such an architecture the anemic entities cannot ensure their consistency sinc
 
 A group of smaller refactorings help to get rid of this model anemia and enrichen the entities with behavior.
 
+Depending on what you do first–strategic transformation or tactical transformation—this is often a follow up to [Extract Specialized Anemic Entity](../tactical-for-strategic/extract-specialized-anemic-entity) or followed by [Extract Specialized Entity](../tactical-for-strategic/extract-specialized-entity).
+
 ## Mechanics
 
 - Encapsulate data in the anemic entities with [Replace Setter](replace-setter) or [Remove Setter](remove-setter).
