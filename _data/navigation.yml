@@ -67,7 +67,7 @@ domain-driven-refactorings-catalog:
         url: /domain-driven-refactorings/tactical/replace-collection-with-entity
       - title: "Replace Collection with Repository (TODO)" # "Replace Collection of Entities with Repository"
         url: /domain-driven-refactorings/tactical/replace-collection-with-repository
-      - title: "Heal Entity Anemia (TODO)"
+      - title: "Heal Entity Anemia"
         url: /domain-driven-refactorings/tactical/heal-entity-anemia
       - title: "Remove Setter"
         url: /domain-driven-refactorings/tactical/remove-setter

@@ -103,9 +103,9 @@ TODO: what to do with the strategies (or patterns)?
 | Combine Value Objects |
 | Replace Collection of Entities with Entity in Its Own Right (=> there is a relationship to *Encapsulate Collection*) |
 | Replace Collection of Entities with Repository |
-| Heal Entity Anemia |
-|  - Remove Setter |
-|  - Replace Setter with Domain-Named Method |
+| [Heal Entity Anemia](tactical/heal-entity-anemia) |
+| [Remove Setter](tactical/remove-setter) |
+| [Replace Setter](tactical/replace-setter) |
 |  - Move Domain Logic from Service Down to Entity (=> *Move Statements into Function*, *Move Statements to Caller*) |
 | [Introduce Contract](tactical/introduce-contract) |
 
