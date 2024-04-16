@@ -13,15 +13,15 @@ title: Domain-Driven Refactorings
 
 - The legacy system has become a **big ball of mud** because no one controlled the dependencies and now everything is connected to everything else.
 - The domain knowledge is entangled into one **huge domain model** whose parts fit together only partially or even contradict each other.
-- **Business source code and technical source code** are mixed, and thus the replacement of obsolete technology or a domain extension becomes a Herculean task.
+- **Business source code and technical source code** are mixed, and thus the replacement of obsolete technology or an extension of the domain logic becomes a Herculean task.
 - People are organized in a **team structure** that is unsuitable for making fast progress.
 
 [Carola Lilienthal](https://www.wps.de/cl) and I have collected the treatments for these diseases and written them down in our book [*Domain-Driven Transformation*](#bib:LilienthalSchwentner2024). <!--We use a combination of **Domain-Driven Design (DDD)**, **Refactorings**, **Domain Storytelling**, **EventStorming**, **Team Topologies** and the **Modularity Maturity Index (MMI)**.--> To perform the transformation, one needs *domain-driven refactorings*, which are collected here on this website. The catalog is split into four categories:
 
 - **Strategic Refactorings:** Help with splitting a monolith architecture into bounded contexts.
 - **Socio-technical Refactorings:** Reorganize the teams. This is often enabled by and/or accompanying strategic refactorings.
-- **Tactical Refactorings (against model anemia):** Change the inner implementation of a bounded context
-- **Tactical Refactorings (against big ball of mud):** Support the strategic refactorings,
+- **Tactical Refactorings that Strengthen Domain Knowledge:** Change the inner implementation of a bounded context.
+- **Tactical Refactorings that Support Strategic Refactorings:** The smaller steps that the strategic refactorings are built of.
 
 <!--
 I use Java as language for most of the examples. The reason for that is that it’s the language in which the most monoliths have been build (although other languages are equally well suited to build them...).
@@ -136,3 +136,5 @@ On this page, I’m collecting refactorings that help to introduce patterns orig
 <a name="bib:Kerievsky2005"></a>Kerievsky, Joshua. [*Refactoring to Patterns*](https://amzn.to/49xJxtG). Boston: Addison-Wesley, 2005.
 
 <a name="bib:LilienthalSchwentner2024"></a>Lilienthal, Carola and Henning Schwentner. [*Domain-Driven Transformation: Modularize and Modernize Legacy Software*](http://domain-driven-transformation.com). Boston: Addison-Wesley, 2024.
+
+<a name="bib:SkeltonPais2019"></a>Skelton, Matthew and Manuel Pais. [*Team Topologies: Organizing Business and Technology Teams for Fast Flow*](https://amzn.to/3VVsv5F). Portland, OR: IT Revolution, 2019.
