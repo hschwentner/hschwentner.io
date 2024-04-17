@@ -57,16 +57,8 @@ domain-driven-refactorings-catalog:
         url: /domain-driven-refactorings/tactical/enforce-ubiquitous-language
       - title: "Replace Primitive with Value Object"
         url: /domain-driven-refactorings/tactical/replace-primitive-with-value-object
-      - title: "Split Active Record"
-        url: /domain-driven-refactorings/tactical/split-active-record-into-aggregate-and-repository
-      - title: "Extract Repository Interface"
-        url: /domain-driven-refactorings/tactical/split-repository-into-interface-and-implementation
       - title: "Combine Value Objects (TODO)"
         url: /domain-driven-refactorings/tactical/combine-value-objects
-      - title: "Replace Collection with Entity (TODO)" # "Replace Collection of Entities with Entity in Its Own Right"
-        url: /domain-driven-refactorings/tactical/replace-collection-with-entity
-      - title: "Replace Collection with Repository (TODO)" # "Replace Collection of Entities with Repository"
-        url: /domain-driven-refactorings/tactical/replace-collection-with-repository
       - title: "Heal Entity Anemia"
         url: /domain-driven-refactorings/tactical/heal-entity-anemia
       - title: "Remove Setter"
@@ -75,9 +67,17 @@ domain-driven-refactorings-catalog:
         url: /domain-driven-refactorings/tactical/replace-setter
       - title: "Move Logic from Service to Entity (TODO)" # or: Behavior, or: "Move Domain Logic from Service Down to Entity"
         url: /domain-driven-refactorings/tactical/move-logic-from-service-to-entity
+      - title: "Introduce Contract"
+        url: /domain-driven-refactorings/tactical/introduce-contract
+      - title: "Replace Collection with Entity (TODO)" # "Replace Collection of Entities with Entity in Its Own Right"
+        url: /domain-driven-refactorings/tactical/replace-collection-with-entity
+      - title: "Replace Collection with Repository (TODO)" # "Replace Collection of Entities with Repository"
+        url: /domain-driven-refactorings/tactical/replace-collection-with-repository
+      - title: "Split Active Record"
+        url: /domain-driven-refactorings/tactical/split-active-record-into-aggregate-and-repository
+      - title: "Extract Repository Interface"
+        url: /domain-driven-refactorings/tactical/split-repository-into-interface-and-implementation
       - title: "Extract Entity from Smart UI (TODO)"
         url: /domain-driven-refactorings/tactical/extract-entity-from-smart-ui
       - title: "Extract Service from Smart UI (TODO)"
         url: /domain-driven-refactorings/tactical/extract-service-from-smart-ui
-      - title: "Introduce Contract"
-        url: /domain-driven-refactorings/tactical/introduce-contract

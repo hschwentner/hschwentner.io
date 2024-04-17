@@ -98,16 +98,18 @@ TODO: what to do with the strategies (or patterns)?
 |--------|
 | [Enforce Ubiquitous Language](tactical/enforce-ubiquitous-language) |
 | [Replace Primitive with Value Object](tactical/replace-primitive-with-value-object) |
-| [Split Active Record into Aggregate and Repository](tactical/split-active-record-into-aggregate-and-repository) |
-| [Split Repository into Interface and Implementation](tactical/split-repository-into-interface-and-implementation) |
 | Combine Value Objects |
-| Replace Collection of Entities with Entity in Its Own Right (=> there is a relationship to *Encapsulate Collection*) |
-| Replace Collection of Entities with Repository |
 | [Heal Entity Anemia](tactical/heal-entity-anemia) |
 | [Remove Setter](tactical/remove-setter) |
 | [Replace Setter](tactical/replace-setter) |
 |  - Move Domain Logic from Service Down to Entity (=> *Move Statements into Function*, *Move Statements to Caller*) |
 | [Introduce Contract](tactical/introduce-contract) |
+| Replace Collection of Entities with Entity in Its Own Right (=> there is a relationship to *Encapsulate Collection*) |
+| Replace Collection of Entities with Repository |
+| [Split Active Record into Aggregate and Repository](tactical/split-active-record-into-aggregate-and-repository) |
+| [Split Repository into Interface and Implementation](tactical/split-repository-into-interface-and-implementation) |
+| [Extract Entity from Smart UI (TODO)](tactical/extract-entity-from-smart-ui) |
+| [Extract Service from Smart UI (TODO)](tactical/extract-service-from-smart-ui) |
 
 ## Acknowledgement
 

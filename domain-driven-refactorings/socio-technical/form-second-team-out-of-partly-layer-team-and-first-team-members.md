@@ -10,8 +10,10 @@ title: Form Second Cross-Functional Team out of Partly Layer-Team and First-Team
 
 ## Motivation
 
-After the first [Cross-Functional Team(s) have been formed out of Layer-Team Members](form-cross-functional-team-out-of-layer-team-members), to from the next teams basically two different approaches can be taken: Either we will take someone out of the first new team to be part of the second new team, or not.
+After applying [Form Cross-Functional Team out of Layer-Team Members](form-cross-functional-team-out-of-layer-team-members), a first cross-functional team has been ramped up. To form the next teams, basically two different approaches can be taken: Either we will take someone out of the first new team to be part of the second new team, or we leave the first team as it is and fill the new team with layer team members.
+
 The advantage of sending a first member to the second team is that the experience of doing the change the first time can thus be transported to the second team.
+
 The disadvantage is that we have rip apart the relatively newly formed first team and send it again into a storming-forming-norming-performing cycle.
 
 ## Mechanics
