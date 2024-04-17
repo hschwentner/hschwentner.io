@@ -19,9 +19,9 @@ title: Domain-Driven Refactorings
 [Carola Lilienthal](https://www.wps.de/cl) and I have collected the treatments for these diseases and written them down in our book [*Domain-Driven Transformation*](#bib:LilienthalSchwentner2024). <!--We use a combination of **Domain-Driven Design (DDD)**, **Refactorings**, **Domain Storytelling**, **EventStorming**, **Team Topologies** and the **Modularity Maturity Index (MMI)**.--> To perform the transformation, one needs *domain-driven refactorings*, which are collected here on this website. The catalog is split into four categories:
 
 - **Strategic Refactorings:** Help with splitting a monolith architecture into bounded contexts.
+- **Tactical Refactorings that Support Strategic Refactorings:** The smaller steps that the strategic refactorings are built of.
 - **Socio-technical Refactorings:** Reorganize the teams. This is often enabled by and/or accompanying strategic refactorings.
 - **Tactical Refactorings that Strengthen Domain Knowledge:** Change the inner implementation of a bounded context.
-- **Tactical Refactorings that Support Strategic Refactorings:** The smaller steps that the strategic refactorings are built of.
 
 <!--
 I use Java as language for most of the examples. The reason for that is that it’s the language in which the most monoliths have been build (although other languages are equally well suited to build them...).

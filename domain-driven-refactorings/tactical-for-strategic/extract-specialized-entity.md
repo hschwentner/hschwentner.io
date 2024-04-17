@@ -17,6 +17,8 @@ title: Extract Specialized Entity
 
 As one step of [Extract Bounded Context](../strategic/extract-bounded-context) you’ve found a monolithic domain model. In this you have identified an entity that has become too big. The decision has been made to split it.
 
+If you have an anemic domain model instead of a behavioral rich domain model apply [Extract Specialized Anemic Entity](tactical-for-strategic/extract-specialized-anemic-entity) instead.
+
 This is often accompanied by [Extract Specialized Table](tactical-for-strategic/extract-specialized-table).
 
 ## Mechanics

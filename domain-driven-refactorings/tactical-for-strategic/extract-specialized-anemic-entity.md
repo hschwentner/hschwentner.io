@@ -15,6 +15,8 @@ title: Extract Specialized Anemic Entity
 
 As one step of [Extract Bounded Context](../strategic/extract-bounded-context) you’ve found a monolithic anemic domain model. In this you have identified an anemic entity (a “data bag”) that has become too big. The decision has been made to split it.
 
+If you have an behavioral rich domain model instead of an anemic domain model apply [Extract Specialized Entity](tactical-for-strategic/extract-specialized-entity) instead.
+
 This is often a follow up to [Extract Specialized Service](extract-specialized-service) and accompanied by [Extract Specialized Table](extract-specialized-table). After the extraction, it is often a good idea to [Heal Entity Anemia](../tactical/heal-entity-anemia).
 
 ## Mechanics
