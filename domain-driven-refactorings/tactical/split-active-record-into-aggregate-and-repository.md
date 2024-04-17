@@ -10,7 +10,7 @@ An [Active Record](https://www.martinfowler.com/eaaCatalog/activeRecord.html) (d
 
 ## Mechanics
 
-- Identify methods in active records as either domain logic or data access logic. If they are mixed use [Extract Method](https://refactoring.com/catalog/extractMethod.html) first.
+- Identify methods in active records as either domain logic or data access logic. If they are mixed use [*Extract Method*](https://refactoring.com/catalog/extractMethod.html) first.
 - Create repository class and copy all data access logic into it.
 - Mark all data access methods in active record as `@Deprecated` or `[Obsolete]`or the like.
 - Replace every call to a data access method of the active record with a a call to the corresponding method in the repository.

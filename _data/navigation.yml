@@ -65,7 +65,7 @@ domain-driven-refactorings-catalog:
         url: /domain-driven-refactorings/tactical/remove-setter
       - title: "Replace Setter" #" with Domain-Named Method"
         url: /domain-driven-refactorings/tactical/replace-setter
-      - title: "Move Logic from Service to Entity (TODO)" # or: Behavior, or: "Move Domain Logic from Service Down to Entity"
+      - title: "Move Logic from Service to Entity" # or: Behavior, or: "Move Domain Logic from Service Down to Entity"
         url: /domain-driven-refactorings/tactical/move-logic-from-service-to-entity
       - title: "Introduce Contract"
         url: /domain-driven-refactorings/tactical/introduce-contract

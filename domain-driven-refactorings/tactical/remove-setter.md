@@ -12,8 +12,8 @@ Unfortunately, many programmers (and IDEs) tend to generate setters for all inst
 
 ## Mechanics
 
-- Find all calls to the setter
-- If there are none remove it
+- Find all calls to the setter.
+- If there are none remove it.
 
 **Warning:** you may not find all calls with static code analysis, as many frameworks rely on getters and setters to work their dynamic magic.
 
