@@ -13,7 +13,7 @@ Smart UI is a pattern (in DDD considered an “anti-pattern,” see [Evans2004, 
 ## Mechanics
 
 - In the smart UI class separate the business logic from the UI logic with [Extract Method](https://refactoring.com/catalog/extractMethod.html).
-- Examine the extracted business logic method. Does it work on fields fom the class? Then this refactoring is right, if iorks only on its parameters, [*Extract Service from Smart UI*](extract-service-from-smart-ui) might fit better.
+- Examine the extracted business logic method. Does it work on fields fom the class? Then this refactoring is right, if it works only on its parameters, [*Extract Service from Smart UI*](extract-service-from-smart-ui) might fit better.
 - Apply [Extract Class](https://refactoring.com/catalog/extractClass.html) and move the business logic and business data into the newly created entity.
 
 ## Example(s)
