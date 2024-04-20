@@ -104,12 +104,12 @@ TODO: what to do with the strategies (or patterns)?
 | [Replace Setter](tactical/replace-setter) |
 |  - Move Domain Logic from Service Down to Entity (=> *Move Statements into Function*, *Move Statements to Caller*) |
 | [Introduce Contract](tactical/introduce-contract) |
-| Replace Collection of Entities with Entity in Its Own Right (=> there is a relationship to *Encapsulate Collection*) |
-| Replace Collection of Entities with Repository |
+| Replace Collection of Entities with Entity in Its Own Right (TODO) (=> there is a relationship to *Encapsulate Collection*) |
+| Replace Collection of Entities with Repository (TODO) |
 | [Split Active Record into Aggregate and Repository](tactical/split-active-record-into-aggregate-and-repository) |
 | [Split Repository into Interface and Implementation](tactical/split-repository-into-interface-and-implementation) |
-| [Extract Entity from Smart UI (TODO) (=> there is a relationship to *Separate Domain from Presentation*)](tactical/extract-entity-from-smart-ui) |
-| [Extract Service from Smart UI (TODO)](tactical/extract-service-from-smart-ui) |
+| [Extract Entity from Smart UI](tactical/extract-entity-from-smart-ui) |
+| [Extract Service from Smart UI](tactical/extract-service-from-smart-ui) |
 
 ## Acknowledgement
 

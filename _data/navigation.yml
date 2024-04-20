@@ -77,7 +77,7 @@ domain-driven-refactorings-catalog:
         url: /domain-driven-refactorings/tactical/split-active-record-into-aggregate-and-repository
       - title: "Extract Repository Interface"
         url: /domain-driven-refactorings/tactical/split-repository-into-interface-and-implementation
-      - title: "Extract Entity from Smart UI (TODO)"
+      - title: "Extract Entity from Smart UI"
         url: /domain-driven-refactorings/tactical/extract-entity-from-smart-ui
-      - title: "Extract Service from Smart UI (TODO)"
+      - title: "Extract Service from Smart UI"
         url: /domain-driven-refactorings/tactical/extract-service-from-smart-ui
