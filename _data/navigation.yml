@@ -45,7 +45,7 @@ domain-driven-refactorings-catalog:
       - title: "Second Team of Partly Layer-Team"
         url: /domain-driven-refactorings/socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members
       - title: "Second Team of Layer-Team Only"
-        url: /domain-driven-refactorings/socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members
+        url: /domain-driven-refactorings/socio-technical/form-second-out-of-layer-team-only
       - title: "Move Operator to DevOps Team"
         url: /domain-driven-refactorings/socio-technical/move-operations-team-member-to-devops-team
       - title: "Assign Context to Existing Team"    # "Assign Bounded Context to Existing (Cross-Functional) Team"
