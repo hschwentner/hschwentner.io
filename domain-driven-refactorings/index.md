@@ -90,7 +90,7 @@ TODO: what to do with the strategies (or patterns)?
 | [Form Cross-Functional Team out of Layer-Team Members](socio-technical/form-cross-functional-team-out-of-layer-team-members) |
 | [TODO: Form Enabling Team out of Layer-Team Members](socio-technical/form-enabling-team-out-of-layer-team-members) |
 | [Form Second Team out of Partly Layer-Team and First-Team Members](socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members) |
-| [Form Second Team out of Only Layer-Team Members](socio-technical/form-second-team-out-of-partly-layer-team-and-first-team-members) |
+| [Form Second Team out of Only Layer-Team Members](socio-technical/form-second-team-out-of-layer-team-only) |
 | [Move Operations Team Member to DevOps Team](socio-technical/move-operations-team-member-to-devops-team) |
 | [Assign Bounded Context to Existing (Cross-Functional) Team](socio-technical/assign-context-to-existing-team) |
 
