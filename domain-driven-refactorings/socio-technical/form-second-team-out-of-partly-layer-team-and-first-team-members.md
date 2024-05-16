@@ -2,7 +2,7 @@
 title: Form Second Cross-Functional Team out of Partly Layer-Team and First-Team Members
 ---
 
-%% TODO: Or $following$ team
+<!-- TODO: Or $following$ team -->
 
 *Alternative to [Form Second Team out of Only Layer-Team Members](form-second-team-out-of-layer-team-only)*
 
