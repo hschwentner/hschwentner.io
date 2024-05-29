@@ -48,6 +48,23 @@ feature_row_books:
         [InformIT](){: .btn .btn--info}
         [Amazon.com](https://amzn.to/3nF34nI){: .btn .btn--info}
         [Amazon.de](https://amzn.to/2ZrcpWc){: .btn .btn--info}
+  - image_path: https://m.media-amazon.com/images/I/51AJAx7nu5L._SY522_.jpg
+    alt: Cover of book *Domain-Driven Transformation*
+    excerpt: >
+        [Carola Lilienthal](https://www.wps.de/cl) and I describe how to modularize and modernize monolithic legacy software.
+        <br/>
+        <br/>
+        [InformIT](){: .btn .btn--info}
+        [Amazon.com](https://www.amazon.co.uk/Domain-Driven-Transformation-Modularize-Modernize-Software/dp/0138311609){: .btn .btn--info}
+        [Amazon.de](){: .btn .btn--info}
+  - image_path: https://dpunkt.de/wp-content/uploads/2020/07/12841-scaled.jpg
+    alt: Cover of book *Domain-Driven Design kompakt*
+    excerpt: >
+        Together with [Carola Lilienthal](https://www.wps.de/cl) I’ve translated [Vaughn Vernon](https://vaughnvernon.com)’s *Domain-Driven Design Distilled* into German.
+        <br/>
+        <br/>
+        [dpunkt](https://dpunkt.de/produkt/domain-driven-design-kompakt/?ref=10024){: .btn .btn--info}
+        [Amazon.de](https://amzn.to/3tqo82D){: .btn .btn--info}
   - image_path: https://dpunkt.de/wp-content/uploads/2023/02/13983.jpg
     alt: Cover of German book *Domain Storytelling*
     excerpt: >
@@ -57,21 +74,13 @@ feature_row_books:
         [dpunkt](https://dpunkt.de/produkt/domain-storytelling/?ref=10024){: .btn .btn--info}
         [Amazon.de](https://amzn.to/3p6ZNRn){: .btn .btn--info}
   - image_path: https://dpunkt.de/wp-content/uploads/2023/07/13698.jpg
-    alt: Cover of book *Domain-Driven Transformation*
+    alt: Cover of German book *Domain-Driven Transformation*
     excerpt: >
-        [Carola Lilienthal](https://www.wps.de/cl) and I describe how to make monolithic legacy software future-ready again.
+        The German version of *Domain-Driven Transformation*.
         <br/>
         <br/>
         [dpunkt](https://dpunkt.de/produkt/domain-driven-transformation/?ref=10024){: .btn .btn--info}
         [Amazon.de](https://amzn.to/3PnJ6M1){: .btn .btn--info}
-  - image_path: https://dpunkt.de/wp-content/uploads/2020/07/12841-scaled.jpg
-    alt: Cover of book *Domain-Driven Design kompakt*
-    excerpt: >
-        Together with [Carola Lilienthal](https://www.wps.de/cl) I’ve translated [Vaughn Vernon](https://vaughnvernon.com)’s *Domain-Driven Design Distilled* into German.
-        <br/>
-        <br/>
-        [dpunkt](https://dpunkt.de/produkt/domain-driven-design-kompakt/?ref=10024){: .btn .btn--info}
-        [Amazon.de](https://amzn.to/3tqo82D){: .btn .btn--info}
   - excerpt: >
         Also, I occasionally write magazine or blog [articles](/articles).
     url: "/articles/"
