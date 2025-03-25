@@ -16,8 +16,11 @@ You can also hire me for an in-house inspirational talk at your company.
 ## Videos in English
 
 ### Domain-Driven Transformation
-<!-- Domain-Driven Transformation  @ DDD Europe 2023 -->
+<!-- Strategic Domain-Driven Refactorings  @ DDD Europe 2023 -->
 {% include video id="HPcIvYrEkv8" provider="youtube" %}
+
+<!-- Domain-Driven Transformation  @ BuildStuff 2024 -->
+{% include video id="JaW3jehqmUI" provider="youtube" %}
 
 ### Domain Storytelling
 <!-- Domain Storytelling  @ JFokus 2022 -->
