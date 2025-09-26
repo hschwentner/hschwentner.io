@@ -54,9 +54,9 @@ feature_row_books:
         [Carola Lilienthal](https://www.wps.de/cl) and I describe how to modularize and modernize monolithic legacy software.
         <br/>
         <br/>
-        [InformIT](){: .btn .btn--info}
-        [Amazon.com](https://www.amazon.co.uk/Domain-Driven-Transformation-Modularize-Modernize-Software/dp/0138311609){: .btn .btn--info}
-        [Amazon.de](){: .btn .btn--info}
+        [O’Reilly](https://www.oreilly.com/library/view/domain-driven-transformation/9798341640108/){: .btn .btn--info}
+        [Amazon.com](https://amzn.to/4gIrTbH){: .btn .btn--info}
+        [Amazon.de](https://amzn.to/46oOKFZ){: .btn .btn--info}
   - image_path: https://dpunkt.de/wp-content/uploads/2020/07/12841-scaled.jpg
     alt: Cover of book *Domain-Driven Design kompakt*
     excerpt: >
