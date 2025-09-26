@@ -48,7 +48,7 @@ feature_row_books:
         [InformIT](){: .btn .btn--info}
         [Amazon.com](https://amzn.to/3nF34nI){: .btn .btn--info}
         [Amazon.de](https://amzn.to/2ZrcpWc){: .btn .btn--info}
-  - image_path: https://m.media-amazon.com/images/I/51AJAx7nu5L._SY522_.jpg
+  - image_path: https://www.oreilly.com/covers/urn:orm:book:9798341640108/400w/
     alt: Cover of book *Domain-Driven Transformation*
     excerpt: >
         [Carola Lilienthal](https://www.wps.de/cl) and I describe how to modularize and modernize monolithic legacy software.
