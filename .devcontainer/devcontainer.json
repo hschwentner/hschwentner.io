@@ -1,0 +1,16 @@
+{
+	"name": "Jekyll Dev",
+	"dockerComposeFile": "../docker-compose.yml",
+	"service": "jekyll",
+	"workspaceFolder": "/srv/jekyll",
+	"overrideCommand": true,
+	"shutdownAction": "stopCompose",
+
+	// Generates .env from .ruby-version so docker-compose passes the correct build arg.
+	"initializeCommand": "echo RUBY_VERSION=$(cat .ruby-version) > .env",
+
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	"features": {
+		"ghcr.io/devcontainers-extra/features/fish-apt-get:1": {}
+	}
+}
