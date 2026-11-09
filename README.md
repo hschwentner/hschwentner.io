@@ -6,10 +6,16 @@ Henning Schwentner's personal website
 
 ### Setup environment
 
-Install Docker Desktop:
+Install Rancher Desktop on Windows:
+
+```pwsh
+\$ winget install -e --id suse.RancherDesktop
+```
+
+Install Rancher Desktop on macOS:
 
 ```fish
-brew install --cask docker
+\$ brew install --cask rancher
 ```
 
 ### Day-to-day Development
